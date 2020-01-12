@@ -17,12 +17,12 @@
 
     {{-- Styles --}}
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:500,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:500,700,900&display=swap" rel="stylesheet">
 
     @stack('styles')
 </head>
 
-<body class="font-sans antialiased flex flex-col">
+<body class="bg-gray-200 font-sans antialiased flex flex-col">
     <div id="app">
         {{-- Menu --}}
         @include('_partials.menu')
@@ -32,7 +32,24 @@
     </div>
 
     <footer>
-
+        <div class="bg-blue-700">
+            <div class="container">
+                <div class="row py-10">
+                    <div class="col-12 text-center">
+                        <p class="text-lg text-white">Copyright</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-blue-600">
+            <div class="container">
+                <div class="row py-5">
+                    <div class="col-12">
+                        <p class="text-white">Copyright 2019 Democracy Lab.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </footer>
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
