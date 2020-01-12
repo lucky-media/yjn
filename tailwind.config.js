@@ -23,10 +23,15 @@ module.exports = {
     extend: {
       fontSize: {
         '7xl': '5rem',
+      },
+      height: {
+        '70': '22rem'
       }
     }
   },
-  variants: {},
+  variants: {
+    margin: ['responsive', 'last']
+  },
   corePlugins: {
     container: false,
   },
