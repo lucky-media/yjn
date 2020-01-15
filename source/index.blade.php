@@ -1,91 +1,97 @@
 @extends('_layouts.master')
 
 @section('body')
-    <div class="bg-yellow-500">
-        <div class="container py-24 lg:py-32">
-            <div class="row">
-                <div class="lg:col-8">
-                    <h1 class="font-black text-2xl lg:text-5xl xl:text-7xl text-blue-500 leading-tight">
-                        We provide texts that make a huge impact.
-                    </h1>
-                </div>
+<div class="bg-yellow-500">
+    <div class="container py-24 lg:py-32">
+        <div class="row">
+            <div class="lg:col-8">
+                <h1 class="font-black text-2xl lg:text-5xl text-blue-500 leading-tight">
+                    We provide texts that make a huge impact.
+                </h1>
             </div>
         </div>
     </div>
+</div>
 
-    <div class="container mt-24 mb-48">
-        <div class="row justify-between">
-            <div class="md:col-6 lg:col-5">
-                @include('_partials.heading', ['title' => 'About the project'])
-                <p class="text-gray-500 text-justify font-medium mt-8">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa sed sed nullam urna malesuada
-                    fermentum.
-                    Dolor cras nisl,
-                    et id ultricies morbi aliquam amet, non. Magna ac sed integer pulvinar iaculis.
-                    <br/> <br/>
-                    Malesuada eget ac
-                    convallis mauris,
-                    diam. Mi condimentum at enim morbi netus. A porttitor eget sed viverra viverra commodo ut volutpat
-                    at.
-                    Adipiscing nulla
-                    nibh lacus, in ullamcorper. Nunc ut fermentum quam posuere in justo. Varius gravida at nunc,
-                    pulvinar
-                    commodo viverra
-                    non quis.
-                </p>
-            </div>
-            <div class="md:col-6 lg:col-5 mt-10 md:mt-0">
-                @include('_partials.heading', ['title' => 'About Democracy Lab'])
-                <p class="text-gray-500 text-justify font-medium mt-8">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa sed sed nullam urna malesuada
-                    fermentum.
-                    Dolor cras nisl,
-                    et id ultricies morbi aliquam amet, non. Magna ac sed integer pulvinar iaculis.
-                    <br/> <br/>
-                    Malesuada eget ac
-                    convallis mauris,
-                    diam. Mi condimentum at enim morbi netus. A porttitor eget sed viverra viverra commodo ut volutpat
-                    at.
-                    Adipiscing nulla
-                    nibh lacus, in ullamcorper. Nunc ut fermentum quam posuere in justo. Varius gravida at nunc,
-                    pulvinar
-                    commodo viverra
-                    non quis.
-                </p>
-            </div>
+<div class="container mt-24 mb-32">
+    <div class="row justify-between">
+        <div class="md:col-6">
+            @include('_partials.heading', ['title' => 'About the project'])
+            <p class="text-gray-500 text-justify font-medium mt-8">
+                Democracy Lab’s “Young Journalists’ Network“ supported by the Media Mentorship Program of the US Embassy
+                in Skopje, will
+                build the capacities of young journalists in news gathering and reporting through a year-long series of
+                professional
+                trainings and internship opportunities.
+                YJN aims to create and sustain a network of young, independent-minded journalists, committed to the
+                principles of
+                ethical and independent journalism. Through their participation in the program, participants will build
+                their capacities
+                in news gathering and reporting through a year-long series of professional trainings and internship
+                opportunities.
+                The trainings will be designed and facilitated by international experts in cooperation with local
+                experts. Topics will
+                include:
+
+                <ul class="list-disc font-medium text-gray-500 mt-4 px-5">
+                    <li>The role of journalism in democratic society & ethical journalism;</li>
+                    <li>Investigative reporting techniques.</li>
+                    <li>Data analysis and Visualization.</li>
+                    <li>Digital media tools and platforms.</li>
+                    <li>Working with government institutions.</li>
+                    <li>Communication Skills.</li>
+                    <li>Networking and Cooperation.</li>
+                </ul>
+            </p>
+        </div>
+        <div class="md:col-6  mt-10 md:mt-0">
+            @include('_partials.heading', ['title' => 'About Democracy Lab'])
+            <p class="text-gray-500 text-justify font-medium mt-8 mb-5">
+                We serve as a hub for international, regional and local experts to share their knowledge and insight on
+                democracy
+                building processes. Democracy Lab is committed to building networks and partnerships focused on
+                developing and
+                sustaining a functional democratic system in North Macedonia and Western Balkan States.
+                <br> <br>
+                We aim to connect different Civic Society Organizations to enhance their human capacities, share
+                experiences and
+                knowledge, build coalitions and provide tools and resources to enforce democracy and its values.
+            </p>
+            <a class="text-blue-400 font-bold hover:text-blue-500" href="https://www.demlab.org/">Visit our website</a>
+        </div>
+    </div>
+</div>
+
+{{-- Participants --}}
+<div class="container">
+    <div class="row">
+        <div class="col-5">
+            @include('_partials.heading', ['title' => 'Our Participants'])
         </div>
     </div>
 
-    {{-- Participants --}}
-    <div class="container">
+    <div class="row justify-center mb-24">
+        @foreach ($participants as $participant)
+        @include('_partials.card', ['participant' => $participant])
+        @endforeach
+    </div>
+</div>
+
+{{-- Trainers --}}
+<div class="bg-gray-600">
+    <div style="height:2px;" class="w-full bg-gray-500 opacity-25"></div>
+    <div class="container py-24">
         <div class="row">
             <div class="col-5">
-                @include('_partials.heading', ['title' => 'Participants'])
+                @include('_partials.heading', ['title' => 'Our Trainers'])
             </div>
         </div>
-
-        <div class="row justify-center mb-24">
-            @for ($i = 1; $i < 10; $i++)
-                @include('_partials.card', ['name' => 'Name Surname', 'image' => '/assets/images/portrait.jpg'])
-            @endfor
-        </div>
-    </div>
-
-    {{-- Trainers --}}
-    <div class="bg-gray-600">
-        <div style="height:2px;" class="w-full bg-gray-500 opacity-25"></div>
-        <div class="container py-24">
-            <div class="row">
-                <div class="col-5">
-                    @include('_partials.heading', ['title' => 'Experts'])
-                </div>
-            </div>
-            <div class="row justify-center">
-                @for ($i = 0; $i < 6; $i++)
-                    @include('_partials.trainer', ['name' => 'Trainer', 'image' => '/assets/images/portrait.jpg', 'bio' => 'Lorem'])
+        <div class="row justify-center">
+            @for ($i = 0; $i < 6; $i++) @include('_partials.trainer', ['name'=> 'Trainer', 'image' =>
+                '/assets/images/portrait.jpg', 'bio' => 'Lorem'])
                 @endfor
-            </div>
         </div>
     </div>
+</div>
 
 @endsection
