@@ -5,6 +5,7 @@ module.exports = {
     },
     colors: {
       white: '#fff',
+      transparent: 'transparent',
       gray: {
         200: '#F9F9F9',
         500: '#666666',
@@ -30,7 +31,8 @@ module.exports = {
     }
   },
   variants: {
-    margin: ['responsive', 'last']
+    margin: ['responsive', 'last'],
+    borderWidth: ['responsive', 'last']
   },
   corePlugins: {
     container: false,

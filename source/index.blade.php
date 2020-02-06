@@ -18,14 +18,17 @@
         <div class="md:col-6">
             @include('_partials.heading', ['title' => 'About the project'])
             <p class="text-gray-500 text-justify font-medium mt-8">
-                Democracy Lab’s “Young Journalists’ Network“ supported by the Media Mentorship Program of the US Embassy
+                Democracy Lab’s “Young Journalists’ Network“ supported by the Media Mentorship Program of the US
+                Embassy
                 in Skopje, will
-                build the capacities of young journalists in news gathering and reporting through a year-long series of
+                build the capacities of young journalists in news gathering and reporting through a year-long series
+                of
                 professional
                 trainings and internship opportunities.
                 YJN aims to create and sustain a network of young, independent-minded journalists, committed to the
                 principles of
-                ethical and independent journalism. Through their participation in the program, participants will build
+                ethical and independent journalism. Through their participation in the program, participants will
+                build
                 their capacities
                 in news gathering and reporting through a year-long series of professional trainings and internship
                 opportunities.
@@ -47,7 +50,8 @@
         <div class="md:col-6  mt-10 md:mt-0">
             @include('_partials.heading', ['title' => 'About Democracy Lab'])
             <p class="text-gray-500 text-justify font-medium mt-8 mb-5">
-                We serve as a hub for international, regional and local experts to share their knowledge and insight on
+                We serve as a hub for international, regional and local experts to share their knowledge and insight
+                on
                 democracy
                 building processes. Democracy Lab is committed to building networks and partnerships focused on
                 developing and
@@ -57,39 +61,31 @@
                 experiences and
                 knowledge, build coalitions and provide tools and resources to enforce democracy and its values.
             </p>
-            <a class="text-blue-400 font-bold hover:text-blue-500" href="https://www.demlab.org/">Visit our website</a>
+            <a class="text-blue-400 font-bold hover:text-blue-500" href="https://www.demlab.org/">Visit our
+                website</a>
         </div>
     </div>
 </div>
 
-{{-- Participants --}}
-<div class="container">
-    <div class="row">
-        <div class="col-5">
-            @include('_partials.heading', ['title' => 'Our Participants'])
-        </div>
+<a href="/participants">
+    <div class="blue-cover flex justify-center items-center">
+        <h1 class="text-4xl sm:text-5xl text-white text-center font-black absolute z-20">Meet our Participants</h1>
     </div>
-
-    <div class="row justify-center mb-24">
-        @foreach ($participants as $participant)
-        @include('_partials.card', ['participant' => $participant])
-        @endforeach
-    </div>
-</div>
+</a>
 
 {{-- Trainers --}}
 <div class="bg-gray-600">
     <div style="height:2px;" class="w-full bg-gray-500 opacity-25"></div>
     <div class="container py-24">
         <div class="row">
-            <div class="col-5">
+            <div class="md:col-5">
                 @include('_partials.heading', ['title' => 'Our Trainers'])
             </div>
         </div>
-        <div class="row justify-center">
-            @for ($i = 0; $i < 6; $i++) @include('_partials.trainer', ['name'=> 'Trainer', 'image' =>
-                '/assets/images/portrait.jpg', 'bio' => 'Lorem'])
-                @endfor
+        <div class="row">
+            @foreach($trainers as $trainer)
+            @include('_partials.trainer', ['trainer' => $trainer])
+            @endforeach
         </div>
     </div>
 </div>
