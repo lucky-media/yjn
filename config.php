@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'http://www.yjn.test/',
     'siteName' => 'Young Journalist Network',
     'siteDescription' => 'Powered by Democracy Lab',
     'collections' => [
@@ -14,8 +14,14 @@ return [
             'path' => 'trainers/{filename}',
             'extends' => '_layouts.trainer',
         ],
-        'portfolio' => [
-            'path' => 'portfolio/{filename}',
+        'portfolio_al' => [
+            'path' => 'portfolio/{lang}/{filename}',
+            'lang' => 'al',
+            'extends' => '_layouts.portfolio',
+        ],
+        'portfolio_mk' => [
+            'path' => 'portfolio/{lang}/{filename}',
+            'lang' => 'mk',
             'extends' => '_layouts.portfolio',
         ],
     ],
@@ -42,5 +48,9 @@ return [
     },
     'getDesc' => function ($page) {
         return strip_tags($page->getContent());
+    },
+
+    'getDate' => function ($page) {
+        return Datetime::createFromFormat('U', $page->date);
     },
 ];

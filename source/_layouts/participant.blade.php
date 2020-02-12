@@ -23,10 +23,7 @@
         </div>
     </div>
     <div class="row">
-        @for ($i = 1; $i < 5; $i++) @include('_partials.news', ['title'=> 'Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.', 'desc' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nisi,',
-            'image' => '/assets/images/news.jpg', 'date' => '21 September 2019'])
-            @endfor
+
     </div>
 </div>
 

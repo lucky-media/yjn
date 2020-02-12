@@ -6694,6 +6694,33 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.md-content table {
+  color: #666666;
+  font-weight: 500;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.md-content table th {
+  font-weight: 700;
+  border-bottom-width: 1px;
+  border-color: #F0F1F2;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.md-content table td {
+  text-align: center;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  border-bottom-width: 1px;
+  border-color: #F0F1F2;
+}
+
 .blue-cover {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(72, 74, 125, 0.75)), to(rgba(72, 74, 125, 0.75))), url("/assets/images/participants.jpg") no-repeat center center/cover;
   background: linear-gradient(rgba(72, 74, 125, 0.75), rgba(72, 74, 125, 0.75)), url("/assets/images/participants.jpg") no-repeat center center/cover;
