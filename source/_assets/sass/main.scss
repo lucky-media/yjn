@@ -25,8 +25,23 @@
     }
 }
 
-.md-content p {
-    @apply text-gray-500 font-medium mb-5;
+.md-content {
+
+    p {
+        @apply text-gray-500 font-medium mb-5;
+    }
+
+    table {
+        @apply text-gray-500 font-medium my-5;
+
+        th {
+            @apply font-bold border-b border-gray-600 py-2 px-5;
+        }
+
+        td {
+            @apply text-center py-1 px-5 border-b border-gray-600;
+        }
+    }
 }
 
 .blue-cover {

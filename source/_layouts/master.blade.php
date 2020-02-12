@@ -17,7 +17,7 @@
 
     {{-- Styles --}}
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:500,700,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700,900&display=swap" rel="stylesheet">
 
     @stack('styles')
 </head>

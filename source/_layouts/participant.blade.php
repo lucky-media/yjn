@@ -1,3 +1,9 @@
+<?php
+$authorPosts = $portfolio_mk->filter(function ($value, $key) use ($page) {
+        return in_array($page->name, $value->author);
+}); 
+?>
+
 @extends('_layouts.master')
 
 @section('body')
@@ -23,10 +29,15 @@
         </div>
     </div>
     <div class="row">
-        @for ($i = 1; $i < 5; $i++) @include('_partials.news', ['title'=> 'Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.', 'desc' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mattis nisi,',
-            'image' => '/assets/images/news.jpg', 'date' => '21 September 2019'])
-            @endfor
+        @if($authorPosts->count() > 0)
+        @foreach($authorPosts as $post)
+        @include('_partials.news', ['news' => $post])
+        @endforeach
+        @else
+        <div class="col-12 mt-6">
+            <p class="text-blue-700">No published posts yet.</p>
+        </div>
+        @endif
     </div>
 </div>
 

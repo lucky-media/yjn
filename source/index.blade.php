@@ -6,7 +6,7 @@
         <div class="row">
             <div class="lg:col-8">
                 <h1 class="font-black text-2xl lg:text-5xl text-blue-500 leading-tight">
-                    We provide texts that make a huge impact.
+                    Young Journalists’ Network
                 </h1>
             </div>
         </div>

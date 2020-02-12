@@ -1,7 +1,7 @@
 module.exports = {
   theme: {
     fontFamily: {
-      'sans': 'Raleway, -apple-system, BlinkMacSystemFont',
+      'sans': 'Montserrat, -apple-system, BlinkMacSystemFont',
     },
     colors: {
       white: '#fff',
