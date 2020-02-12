@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'http://www.yjn.test/',
+    'baseUrl' => 'https://dem-yjn.netlify.com/',
     'siteName' => 'Young Journalist Network',
     'siteDescription' => 'Powered by Democracy Lab',
     'collections' => [
