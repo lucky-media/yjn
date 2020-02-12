@@ -184,9 +184,3 @@ published:
 Ова компанија освен со новогодишно украсување, се занимава и со многу диверзибилни дејности. Имено, повеќе пати врши сервисирање на протопни и циркулаторни пумпи во спортската сала „Борис Трајковски“- Скопје, ЈП „Водовод“-Куманово. Исто така, во 2018 година истата фирма е набавувач истовремено и на хирушки мантили за Клиниката за Кардиологија во Скопје и корпи за одпадоци за ЈП „Комунална Хигиена“- Скопје.
 
 Компанијата „Метал ват –ел“ Скопје, со седиште Гази Баба има долга листа на клиентела, вклучувајќи ја и компанијата „Линк медија плус“, која ја врши истата дејност, новогодишно украсување и’ е директен конкурент.
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.

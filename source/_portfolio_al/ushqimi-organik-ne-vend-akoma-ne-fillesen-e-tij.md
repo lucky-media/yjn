@@ -1,7 +1,7 @@
 ---
 title: Ushqimi organik në vend – akoma në fillesën e tij
 cover: '/assets/images/uploads/organic-food.jpg'
-date: 2019-01-10
+date: 2020-01-10
 author: ['Ljubica Ivanova', 'Arta Qerimi']
 published:
  Pina: 'https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/'
@@ -53,9 +53,3 @@ bujqësore, informim i pamjaftueshëm i tregtarëve për ekzistimin e subvencion
 
 Nuk ka aktivitete të mjaftueshme për të promovuar prodhimtarinë organike dhe për të ngritur vetëdijen e konsumatorëve, si dhe sasi të pamjaftueshme të produkteve organike për furnizim të vazhdueshëm të supermarketeve.
 Hulumtime të shumta tregojnë për efektet pozitive të ushqimit organik, si frutat dhe perimet që përmbajnë më shumë vitamina. Prodhimet organike përmbajnë më pak mbetje të metaleve të rënda, nitrateve dhe pesticideve, qëndrojnë më gjatë në depo, pa e humbur cilësinë e tyre dhe ndikojnë në mbrojtjen e ambientit natyror. Studime të shumta vërtetojnë se niveli i emetimit të dioksid karbonit për hektar mund të jetë 50% më i ulët në bujqësinë organike krahasuar me atë konvencionale.
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.

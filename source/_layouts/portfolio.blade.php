@@ -6,7 +6,7 @@
 <div class="bg-yellow-500">
     <div class="container py-20">
         <div class="row justify-center">
-            <div class="lg:col-8">
+            <div class="lg:col-10">
                 <h1 class="font-black text-center text-3xl md:text-4xl lg:text-5xl text-blue-500 leading-tight">
                     {{ $page->title }}
                 </h1>
@@ -45,6 +45,25 @@
             @endif
             <div class="md-content">
                 {!! $page->getContent() !!}
+            </div>
+            <div class="text-sm text-gray-500 italic">
+                Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој
+                проект е поддржан од
+                Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на
+                имплементаторите/ авторите,
+                и не ги одразуваат оние на Владата на САД.
+                <br> <br>
+                This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This
+                project was
+                funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations
+                expressed herein are
+                those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
+                <br> <br>
+                Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky
+                projekt është i
+                mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e
+                paraqitura këtu janë
+                të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.
             </div>
         </div>
     </div>

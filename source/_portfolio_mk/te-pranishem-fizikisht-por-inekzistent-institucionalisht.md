@@ -1,7 +1,7 @@
 ---
 title: Физички присутни, но институционално непостоечки
 cover: '/assets/images/uploads/article-3.jpg'
-date: 2019-01-10
+date: 2020-01-16
 author: ['Evi Shkopi', 'Ivana Nasteska']
 published:
  Pina: 'https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/'
@@ -53,11 +53,3 @@ published:
 **700 лица без документи се регистрирале досега**
 
 МТСП и Управата за водење на матични книги уште лани во април објавија Јавен повик до сите лица коишто живеат во земјата а не се евидентирани во Матичната книга на родени. Тие беа повикани да дојдат во канцелариите на матичните служби за да пополнат Прашалник во кој ќе ги наведат своите податоци. Јавниот повик траеше до ноември 2018 година и беа пријавени 700 лица. Податоците од пополнетите Прашалници се внесуваат во посебен електронски регистер. Како што објаснуваат од Министерството, врз основа на овој регистер, Управата за водење на матични книги на овие лица ќе им издава привремен Извод на родени и МВР ќе им издава привремена лична карта. Од ова министерство велат дека на овој начин ќе можат да ги остварат сите права кои им следуваат како граѓани на оваа држава. Остварувањето на овие права и овој статус овие лица ќе го имаат се до обезбедувањето на потребните документи за нивна регистрација во редовната матична книга на родени, велат од МТСП.
-
- 
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.

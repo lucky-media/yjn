@@ -1,7 +1,7 @@
 ---
 title: Grumbullohen para për organizim studentor, por a ekziston në praktikë?
 cover: '/assets/images/uploads/article-2.jpg'
-date: 2019-02-08
+date: 2020-02-08
 author: ['Shefkije Alasani', 'Teodora Noveska']
 published:
  Diversity Media: 'http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/'
@@ -62,10 +62,3 @@ Këto ishin zgjedhjet e para pas miratimit të ligjit të ri. Ligji parasheh pro
 
 *Ligji i ri për arsimin e lartë parasheh që zgjedhjet në fakultete duhet t’i shpallë dekani dhe të formohet një komision nga dy profesorë dhe tre studentë, të cilët do të ndjekin procesin e formimit të kuvendit të fakultetit, që i përfaqëson studentët.
 Kuvendi i fakultetit duhet të zgjidhet në çdo fakultet dhe numëron 10 studentë. Pasi të formohet kuvendi, në seancë konstituive anëtarët do të zgjedhin kryetar dhe do të emërojnë nga dy anëtarë për Kuvendin universitar, një apo dy anëtarë për këshillët mësimorë-shkencorë të fakulteteve dhe një anëtar në Bordin për bashkëpunim dhe mirëbesim me publikun. Pasi kuvendet e fakulteteve ta formojnë Kuvendin universitar, në seance konstituive do të zgjedhë kryetar dhe do të emërojë përfaqësues përkatës në organet e universitetit.*
-
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.

@@ -67,11 +67,3 @@ Ministrja për punë dhe politikë sociale, Mila Carovska, para pak kohësh info
 MPPS dhe Drejtoria për udhëheqje të librave amë, që nga prilli i vitit të kaluar, shpallën Thirrje publike deri tek të gjithë personat që jetojnë në territorin e Republikës së Maqedonisë së Veriut, por nuk janë të regjistruar në Librin amë e të lindurve. Ata u thirrën që të paraqiten në zyrat e shërbimeve amë dhe të plotësojnë pyetësor në të cilët do të shënojnë të dhënat e tyre. Thirrja publike zgjati deri në nëntor të vitit 2018 dhe u paraqitën 700 persona. Të dhënat nga Pyetësorët e plotësuar shënohen në një regjistër
 të veçantë elektronik. Siç sqarojnë nga Ministria, në bazë të këtij regjistri, Drejtoria për udhëheqje të librave amë do t’u lëshojë këtyre personave certifikatë lindjeje të përkohshme dhe MPB do t’u lëshojë letërnjoftim të përkohshëm. Nga kjo Ministri thonë se në këtë mënyrë ata do të jenë në gjendje të ushtrojnë të gjitha të drejtat që ata kanë si qytetarë të këtij shteti. Realizimin e këtyre të drejtave dhe këtë status do ta kenë derisa këta persona të sigurojnë dokumentet e nevojshme për regjistrimin e tyre
 në Librin e rregullt amë të të lindurve, thonë nga MPPS.
-
- 
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.

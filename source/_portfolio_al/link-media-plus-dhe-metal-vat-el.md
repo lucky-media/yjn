@@ -1,7 +1,7 @@
 ---
 title: “Link media plus” dhe “Metal vat-el” rekorderë të furnizimeve publike për dekorimin e fundvitit
 cover: '/assets/images/uploads/article-1.jpg'
-date: 2019-12-06
+date: 2020-01-16
 author: ['Rrita Syla', 'Ardit Ramadani', 'Maja Terziova', 'Dorina Ajdini', 'Ljubica Ivanova', 'Arta Qerimi', 'Ivana Nasteska', 'Alberie Xhemaili', 'Shefkije Alasani', 'Teodora Noveska', 'Adem Jashari', 'Teuta Buchi', 'Rita Behadini', 'Dajana Lazarevska']
 published:
  Diversity Media: 'http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/'
@@ -199,7 +199,3 @@ Kjo kompani është gjithashtu përgjegjëse për dekorimin e këtij viti të Ko
 Përveç dekorimit të fundvitit, kjo kompani merret edhe me shumë aktivitete të larmishme. Përkatësisht, ajo riparon disa herë pompat qarkulluese në sallën sportive “Boris Trajkovski” Shkup, NP “Ujësjellësi” Kumanovë. Gjithashtu, në vitin 2018, e njëjta kompani furnizuese e manteleve kirurgjike për Klinikën e Kardiologjisë në Shkup dhe shporta mbeturinash për NP “Higjiena Komunale” Shkup.
 
 Kompania “METAL VAT-EL” Shkup, me seli në Gazi Babë, ka listë të gjatë klientësh, përfshirë edhe kompaninë “Link media plus”, e cila kryen të njëjtin aktivitet, dekorim fundviti dhe është konkurrent i drejtpërdrejtë.
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.

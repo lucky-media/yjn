@@ -1,7 +1,7 @@
 ---
 title: Се собираат пари за студентско организирање, но дали го има во пракса?
 cover: '/assets/images/uploads/article-2.jpg'
-date: 2019-02-08
+date: 2020-02-08
 author: ['Shefkije Alasani', 'Teodora Noveska']
 published:
  Diversity Media: 'http://diversitymedia.mk/%d1%81%d0%b5-%d1%81%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d1%81%d0%ba%d0%be-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8/'
@@ -60,10 +60,3 @@ published:
 *Новиот закон за високо образование предвидува изборите на факултетите да ги распишат деканите и да формираат комисија од двајца професори и тројца студенти кои ќе го следат процесот на формирање на факултетското собрание, кое ги претставува студентите.
 Факултетското собрание треба да се избере на секој факултет и ќе брои 10 студенти. Откако собранието ќе се конституира, членовите на конститутивна седница ќе изберат претседател и ќе именуваат по двајца членови за Универзитетското собрание, еден или двајца членови за наставно-научните совети на факултетите и еден член во Одброт за соработка и доверба на јавноста.
 Откако факултетските собранија ќе формираат Универзитетско собрание, тоа на конститутивна седница ќе избере претседател и ќе именува соодветни претставници во телата на Универзитетот.*
-
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.

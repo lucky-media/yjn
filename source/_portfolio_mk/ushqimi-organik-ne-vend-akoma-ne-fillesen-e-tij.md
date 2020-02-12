@@ -1,7 +1,7 @@
 ---
 title: Органската храна во земјава – се’ уште во зачеток
 cover: '/assets/images/uploads/organic-food.jpg'
-date: 2019-01-10
+date: 2020-01-10
 author: ['Ljubica Ivanova', 'Arta Qerimi']
 published:
  Pina: 'https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/'
@@ -46,11 +46,3 @@ published:
 Според Националниот план за органско производство, во Македонија владее недоволна информираност на потрошувачите за бенефитите од употребата на органски земјоделски производи, недоволна информираност на трговците за постоење на субвенции за продажба на органски производи, недоволно развиен домашен пазар и непостоење на специјализирани продавници за органска храна, особено во помалите населени места. Не се доволни ниту активностите за промоција на органското производство и подигнување на свеста на потрошувачите, ниту пак количините на органски производи за континуирано снабдување на супермаркетите.
 
 Бројни истражувања говорат за позитивните ефекти од органската храна, како овошјето и зеленчукот кои содржат повеќе витамини. Органските продукти содржат помалку резидуи од тешки метали, нитрати и пестициди, издржуваат подолг рок на складирање, без да го изгубат својот квалитет и имаат влијание во заштита на природната средина. Бројни студии докажуваат дека нивото на емисија на јаглероден диоксид по хектар може да биде за 50 % пониско кај органското земјоделство во споредба со конвенционалното.
-
- 
-
-Овој текст е продукт од проектот “Young Journalists’ Network” имплементиран од Демокраси Лаб. Овој проект е поддржан од Амбасадата на САД. Мислењата, откритијата и заклучоците или препораките изнесени овде се на имплементаторите/ авторите, и не ги одразуваат оние на Владата на САД.
-
-This article is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
-
-Ky artikull është produkt i projektit “Young Journalists’ Network” I implementuar nga Democracy Lab. Ky projekt është i mbështetur me grant nga Ambasada e SHBA-ve. Mendimet, zbulimet dhe konkluzionet ose rekomandimet e paraqitura këtu janë të implementuesve/autorëve dhe nuk i reflektojnë domosdoshmërisht ato të Qeverisë së SHBA-ve.

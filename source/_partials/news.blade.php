@@ -1,6 +1,6 @@
 <div class="md:col-6 lg:col-4 mt-16 lg:mt-10">
     <a href="{{ $news->getPath() }}">
-        <img style="max-height: 240px;" class="w-full h-auto object-cover" src="{{ $news->cover }}" alt="">
+        <img style="height: 240px;" class="w-full h-auto object-cover" src="{{ $news->cover }}" alt="">
         @if(isset($news->author))
         <div class="bg-yellow-500 inline-flex items-center px-3 py-4 mt-3">
             <svg xmlns="http://www.w3.org/2000/svg" class="block fill-current w-6 h-6 text-blue-500" fill="none"
@@ -21,13 +21,10 @@
         @endif
         <div class="flex flex-row justify-center mt-5">
             <div class="w-2 bg-yellow-500 mr-3"></div>
-            <p class="text-blue-500 font-bold text-2xl leading-tight">
+            <p class="text-blue-500 font-bold text-xl leading-tight">
                 {{ $news->title }}
             </p>
         </div>
-        <p class="text-gray-500 text-sm text-justify mt-5">
-            {{ $news->desc }}
-        </p>
         <div class="w-full h-12 bg-gray-600 mt-6 px-4 flex items-center justify-between">
             <div class="flex flex-row items-center">
                 <svg xmlns="http://www.w3.org/2000/svg" class="fill-current text-blue-500 w-6 h-6" fill="none"
