@@ -6,6 +6,10 @@ return [
     'siteName' => 'Young Journalist Network',
     'siteDescription' => 'Powered by Democracy Lab',
     'collections' => [
+        'team' => [
+            'path' => 'team/{filename}',
+            'extends' => '_layouts.team',
+        ],
         'participants' => [
             'path' => 'participants/{filename}',
             'extends' => '_layouts.participant',
