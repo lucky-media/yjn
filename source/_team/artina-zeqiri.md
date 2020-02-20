@@ -1,6 +1,8 @@
 ---
 name: Artina Zeqiri
 image: '/assets/images/team/artina_zeqiri.jpg'
+order: 2
+position: Assistant Project Manager
 image_lg: '/assets/images/team/artina_zeqiri@2x.jpg'
 ---
 

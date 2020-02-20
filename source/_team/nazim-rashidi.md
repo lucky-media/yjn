@@ -1,6 +1,8 @@
 ---
 name: Nazim Rashidi
 image: '/assets/images/team/nazim_rashidi.jpg'
+order: 4
+position: Editor
 image_lg: '/assets/images/team/nazim_rashidi@2x.jpg'
 ---
 

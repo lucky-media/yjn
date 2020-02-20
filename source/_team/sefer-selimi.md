@@ -1,6 +1,8 @@
 ---
 name: Sefer Selimi
 image: '/assets/images/team/sefer_selimi.jpg'
+order: 1
+position: Exe. Dir. & Project Manager
 image_lg: '/assets/images/team/sefer_selimi@2x.jpg'
 ---
 

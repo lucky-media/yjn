@@ -1,6 +1,8 @@
 ---
 name: Vesna Kolovska
 image: '/assets/images/team/vesna_kolovska.jpg'
+order: 5
+position: Co - Editor
 image_lg: '/assets/images/team/vesna_kolovska@2x.jpg'
 ---
 

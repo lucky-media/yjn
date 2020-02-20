@@ -2,7 +2,7 @@
 
 @section('body')
 
-@include('_partials.yellow-header', ['title' => $page->name])
+@include('_partials.yellow-header', ['title' => $page->name, 'desc' => $page->position])
 
 <div class="container mt-20 mb-20  md:mb-32 md:mt-32">
     <div class="row justify-between">

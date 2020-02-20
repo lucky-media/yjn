@@ -1,6 +1,8 @@
 ---
 name: Kristina Ozimec
 image: '/assets/images/team/kristina_ozimec.jpg'
+order: 3
+position: Project Coordinator
 image_lg: '/assets/images/team/kristina_ozimec@2x.jpg'
 ---
 

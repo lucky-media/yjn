@@ -1,6 +1,8 @@
 ---
 name: Manushaqe Abdiu
 image: '/assets/images/team/manushaqe_abdiu.jpg'
+order: 6
+position: Administrative officer
 image_lg: '/assets/images/team/manushaqe_abdiu@2x.jpg'
 ---
 
