@@ -43,11 +43,11 @@
         <div class="bg-blue-600">
             <div class="container">
                 <div class="row py-10">
-                    <div class="col-3 flex flex-row">
+                    <div class="col-12 md:col-6 lg:col-3 flex flex-row justify-center">
                         <img class="w-auto h-16 mr-2" src="/assets/images/demlab.png" srcset="/assets/images/demlab@2x.png" alt="Democracy Lab">
                         <img class="w-auto h-16" src="/assets/images/embassy.jpg" srcset="/assets/images/embassy@2x.jpg" alt="US Embassy Skopje">
                     </div>
-                    <div class="col-9 text-xs text-white text-center">
+                    <div class="col-12 md:col-6 lg:col-9 text-xs text-white text-center mt-8 md:mt-0">
                         This website is a product of the project “Young Journalists’ Network” implemented by Democracy Lab. This project was funded through a U.S. Embassy grant. The opinions, findings, and conclusions or recommendations expressed herein are those of the implementers/authors and do not necessarily reflect those of the U.S. Government.
                     </div>
                 </div>
@@ -57,7 +57,7 @@
             <div class="container">
                 <div class="row py-5">
                     <div class="col-12">
-                        <p class="text-sm text-white">© Copyright 2020 -  Made with
+                        <p class="text-xs md:text-sm text-white">© Copyright 2020 -  Made with
                             <span class="text-yellow-500">&#9829;</span> from
                             <a class="font-bold pb-2 border-b-2 border-transparent hover:border-yellow-500"
                                href="http://www.luckymedia.mk">Lucky Media</a>

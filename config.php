@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://dem-yjn.netlify.com/',
+    'baseUrl' => 'https://yjn.demlab.org/',
     'siteName' => 'Young Journalist Network',
     'siteDescription' => 'Democracy Lab’s “Young Journalists’ Network“ supported by the Media Mentorship Program of the US Embassy in Skopje, will build the capacities of young journalists in news gathering and reporting through a year-long series of professional trainings and internship opportunities.',
     'collections' => [
