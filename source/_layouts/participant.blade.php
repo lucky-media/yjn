@@ -1,8 +1,8 @@
-<?php
+@php
 $authorPosts = $portfolio_mk->filter(function ($value, $key) use ($page) {
     return in_array($page->name, $value->author);
 });
-?>
+@endphp
 
 @push('meta')
     <meta property="og:title" content="{{ $page->siteName }} | {{ $page->name }}" />

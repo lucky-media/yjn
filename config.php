@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Str;
+
 return [
     'production' => false,
     'baseUrl' => 'https://yjn.demlab.org/',
@@ -52,7 +54,7 @@ return [
     ],
 
     'isActive' => function ($page, $path) {
-        return ends_with(trimPath($page->getPath()), trimPath($path));
+        return Str::endsWith(trimPath($page->getPath()), trimPath($path));
     },
 
     'getDesc' => function ($page) {
