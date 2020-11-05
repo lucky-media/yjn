@@ -1,9 +1,0 @@
----
-name: Adem Jashari
-image: '/assets/images/participants/adem_jashari.jpg'
-image_lg: '/assets/images/participants/adem_jashari@2x.jpg'
----
-
-Adem Jashari was born on May 30, 2000. He is currently  attending two universities. Adem is studying Law at South East European University and Journalism and Media at State University of Tetovo. He has participated in many activities in distinct spheres. He is also a member of several organizations such as: The American Corner Tetovo, Vision M, LOJA and the cultural association known as Mesazhi. Adem was elected as a representative of the Faculty of Law by SEEU’s Student Parliament and Association. During high school, Adem was one of the best reciters and he actively participated in every activity held in the school premises, but also many activities which took place outside the school. Adem will always be remembered in his high school for his role in the comedy “Vëllazëri e Interes“ and for giving a marvelous and enthusiastic performance. 
-
-He was involved in Internship programs hosted by American Corner Tetovo and in Brvenica Municipality. He has participated in various trainings, seminars, and projects like Erasmus plus in Istanbul, Turkey with the topic “Protect Your World For Your Future“ and with Erasmus plus in Aalborg, Denmark with the topic “EUforYou”. Currently, he is a member of training program called “Young Journalists’ Network” organized by Democracy Lab and The US Embassy in Skopje. His first priority is to open an organization for youth, enabling young people to be more active in society and, most importantly, to use their voices to challenge societal injustices. His motto for moving forward is, “Devote yourself to the things you love.”
