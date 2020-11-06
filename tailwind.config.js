@@ -1,4 +1,6 @@
 const config = require('tailwindcss/defaultTheme');
+const plugin = require('tailwindcss/plugin');
+const { theme } = require('tailwindcss/stubs/defaultConfig.stub');
 
 module.exports = {
   future: {
@@ -8,6 +10,10 @@ module.exports = {
   purge: [],
   theme: {
     extend: {
+      fontFamily: {
+        ...config.fontFamily,
+        'sans': 'Montserrat, -apple-system, BlinkMacSystemFont',
+      },
       colors: {
         gray: {
           ...config.colors.gray,
@@ -45,6 +51,19 @@ module.exports = {
   plugins: [
     require('tailwind-bootstrap-grid')({
       gridGutterWidth: '32px',
+    }),
+
+    plugin(function ({ addComponents, theme }) {
+
+      const mdContent = {
+        '.md-content p': {
+          color: theme('colors.gray.500'),
+          fontWeight: theme('fontWeight.medium'),
+          marginBottom: theme('spacing.5')
+        },
+      }
+
+      addComponents(mdContent, ['responsive'])
     })
   ],
 }
