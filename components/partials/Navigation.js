@@ -1,6 +1,16 @@
 import Link from "next/link"
 import SVG from "react-inlinesvg";
 
+function MenuItem({ children, href }) {
+    return (
+        <Link href={href}>
+            <a className="cursor-pointer transition w-full text-center text-xl uppercase font-bold text-gray-500 py-6 border-blue-500 border-b-2  md:text-base md:normal-case md:pt-0 md:pb-2 md:border-transparent md:border-b-2 md:hover:border-blue-500 md:w-auto md:mr-6 last:mr-0 hover:text-blue-500">
+                {children}
+            </a>
+        </Link>
+    )
+}
+
 export default function Navigation() {
     return (
         <div className="bg-white sticky md:h-24 top-0" style={{ zIndex: 9999 }}>
@@ -28,10 +38,9 @@ export default function Navigation() {
 
                     <div className="transition opacity-0 hidden flex-col md:opacity-100 md:col-8 md:flex md:flex-row items-center justify-end pt-6 md:pt-0"
                         id="menu">
-                        <a className="transition w-full text-center text-xl uppercase font-bold text-gray-500 py-6 border-blue-500 border-b-2 last:border-b-0 md:text-base md:normal-case md:pt-0 md:pb-2 md:border-transparent md:border-b-2 md:hover:border-blue-500 md:w-auto md:mr-6 last:mr-0 hover:text-blue-500"
-                            href="">
-                            Menu
-                        </a>
+                        <MenuItem href="/">Home</MenuItem>
+                        <MenuItem href="/participants">Participants</MenuItem>
+                        <MenuItem href="/team">Team</MenuItem>
                     </div>
                 </div>
             </div>

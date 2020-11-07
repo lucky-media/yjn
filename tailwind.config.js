@@ -51,19 +51,6 @@ module.exports = {
   plugins: [
     require('tailwind-bootstrap-grid')({
       gridGutterWidth: '32px',
-    }),
-
-    plugin(function ({ addComponents, theme }) {
-
-      const mdContent = {
-        '.md-content p': {
-          color: theme('colors.gray.500'),
-          fontWeight: theme('fontWeight.medium'),
-          marginBottom: theme('spacing.5')
-        },
-      }
-
-      addComponents(mdContent, ['responsive'])
     })
   ],
 }

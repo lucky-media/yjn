@@ -6,13 +6,13 @@ import Card from "../../components/Card";
 
 export default function index({ items }) {
     return (
-        <Layout title="Participants">
-            <YellowHeader>Participants</YellowHeader>
+        <Layout title="Team">
+            <YellowHeader>Team</YellowHeader>
 
             <div className="container my-24">
                 <div className="row justify-center">
                     {items.map(item => {
-                        return <Card key={item.slug} link="participants" item={item} />
+                        return <Card key={item.slug} link="team" item={item} />
                     })}
                 </div>
             </div>
@@ -22,10 +22,10 @@ export default function index({ items }) {
 
 export async function getStaticProps() {
 
-    const files = fs.readdirSync('content/participants');
+    const files = fs.readdirSync('content/team');
 
     let items = files.map(filename => {
-        const markdownWithMetadata = fs.readFileSync(`content/participants/${filename}`).toString();
+        const markdownWithMetadata = fs.readFileSync(`content/team/${filename}`).toString();
 
         let {
             data,
@@ -38,6 +38,8 @@ export async function getStaticProps() {
             content
         }
     });
+
+    items.sort((a, b) => (a.order > b.order) ? 1 : -1)
 
 
     return {
