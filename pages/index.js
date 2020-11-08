@@ -21,6 +21,7 @@ export default function Home({ trainers }) {
         </div>
       </div>
 
+      {/* About Section */}
       <AboutSection />
 
       {/* Participants */}
