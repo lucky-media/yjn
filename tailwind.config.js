@@ -51,6 +51,7 @@ module.exports = {
   plugins: [
     require('tailwind-bootstrap-grid')({
       gridGutterWidth: '32px',
-    })
+    }),
+    require('@tailwindcss/typography')
   ],
 }

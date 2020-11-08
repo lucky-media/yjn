@@ -13,7 +13,7 @@ function MenuItem({ children, href }) {
 
 export default function Navigation() {
     return (
-        <div className="bg-white sticky md:h-24 top-0" style={{ zIndex: 9999 }}>
+        <div className="bg-white sticky top-0" style={{ zIndex: 9999 }}>
             <div className="container">
                 <div className="row justify-between items-center py-4 text-base text-black">
                     <div className="col-2">
@@ -41,6 +41,7 @@ export default function Navigation() {
                         <MenuItem href="/">Home</MenuItem>
                         <MenuItem href="/participants">Participants</MenuItem>
                         <MenuItem href="/team">Team</MenuItem>
+                        <MenuItem href="/portfolio">Portfolio</MenuItem>
                     </div>
                 </div>
             </div>

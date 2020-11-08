@@ -1,61 +1,49 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
+import { parseFiles, slugify, parseData, parseWithDate } from "../../../content/content";
 import Layout from "../../../components/layout/Layout";
-import YellowHeader from "../../../components/YellowHeader";
 import ReactMarkdown from "react-markdown";
-import Heading from "../../../components/Heading";
+import YellowNews from "../../../components/YellowNews";
+import Disclaimer from "../../../components/Disclaimer";
+import AuthorSection from "../../../components/AuthorSection";
 
 
-export default function singleParticipant({ content, data }) {
+export default function singleParticipant({ content, data, authors }) {
 
-    const { name, image, image_lg } = data;
+    const { title, cover, date, published } = data;
 
     return (
-        <Layout title={name}>
-            <YellowHeader>
-                {name}
-            </YellowHeader>
+        <Layout title={title}>
+            <YellowNews date={date}>
+                {title}
+            </YellowNews>
 
-            <div className="container mt-20 mb-5 md:mt-32">
-                <div className="row justify-between">
-                    <div className="md:col-6">
-                        <img style={{ maxHeight: '800px' }} className="w-full h-auto object-cover mb-10 md:mb-0"
-                            srcSet={image_lg} src={image} alt={name} />
-                    </div>
-                    <div className="md:col-6 md-content">
-                        <ReactMarkdown source={content} />
-                    </div>
-                </div>
-            </div>
+            {/* Content Section */}
+            <div className="container my-20">
+                <div className="row justify-center">
+                    <div className="md:col-10 lg:col-8">
 
-            <div className="container mb-32">
-                <div className="row">
-                    <div className="md:col-5">
-                        <Heading>Published work</Heading>
-                    </div>
-                </div>
-                <div className="row">
-                    {/* @include('_partials.news', ['news' => $post]) */}
-                    <div className="col-12 mt-6">
-                        <p className="text-blue-700">No published posts yet.</p>
+                        <img style={{ maxHeight: '400px' }}
+                            className="w-full h-auto object-cover mb-10"
+                            src={cover}
+                            alt={title}
+                        />
+
+                        <div className="prose max-w-none">
+                            <ReactMarkdown source={content} />
+                        </div>
+                        <Disclaimer />
                     </div>
                 </div>
             </div>
 
-
+            {/* Author Section */}
+            <AuthorSection authors={authors} published={published} />
         </Layout>
     )
 }
 
 export async function getStaticPaths() {
-    const files = fs.readdirSync("content/participants");
 
-    const paths = files.map((filename) => ({
-        params: {
-            slug: filename.replace(".md", ""),
-        },
-    }));
+    const paths = parseFiles("content/portfolio_al");
 
     return {
         paths,
@@ -65,16 +53,29 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
 
-    const markdownWithMetadata = fs
-        .readFileSync(path.join("content/participants", slug + ".md"))
-        .toString();
 
-    let { data, content } = matter(markdownWithMetadata);
+    let { data, content } = parseWithDate("content/portfolio_al", slug);
+
+    let authors = [];
+
+    data.author.forEach(item => {
+        authors.push(parseData("content/participants", slugify(item)));
+    })
+
+    authors = authors.map(author => {
+        return {
+            name: author.data.name,
+            slug: slugify(author.data.name),
+            image: author.data.image,
+            image_lg: author.data.image_lg
+        }
+    })
 
     return {
         props: {
             data,
-            content
+            content,
+            authors
         },
     };
 }
