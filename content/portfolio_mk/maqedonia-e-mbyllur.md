@@ -2,7 +2,7 @@
 title: „Затворена“ Македонија
 cover: '/images/uploads/zatvorena-makedonija-640x480.jpg'
 date: 2020-04-23
-author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Pencova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
+author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Penchova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
 published:
  Diversity Media: 'http://diversitymedia.mk/%d0%b7%d0%b0%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0/'
 

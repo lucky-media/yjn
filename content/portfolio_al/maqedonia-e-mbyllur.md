@@ -2,7 +2,7 @@
 title: Maqedonia “e mbyllur”
 cover: '/images/uploads/zatvorena-makedonija-640x480.jpg'
 date: 2020-04-23
-author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Pencova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
+author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Penchova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
 published:
  Diversity Media: 'http://diversitymedia.mk/maqedonia-e-mbyllur/'
 
