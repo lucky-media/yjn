@@ -17,6 +17,8 @@ export default function index({ news }) {
                 </div>
             </div>
         </Layout>
+
+
     )
 }
 

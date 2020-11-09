@@ -1,13 +1,11 @@
-import fs from "fs";
-import path from "path";
-import matter from "gray-matter";
+import { parseFiles, parseData, getCollection } from "../../content/content"
 import Layout from "../../components/layout/Layout";
 import YellowHeader from "../../components/YellowHeader";
 import ReactMarkdown from "react-markdown";
 import Heading from "../../components/Heading";
+import News from "../../components/News";
 
-
-export default function singleParticipant({ content, data }) {
+export default function singleParticipant({ content, data, posts }) {
 
     const { name, image, image_lg } = data;
 
@@ -29,33 +27,29 @@ export default function singleParticipant({ content, data }) {
                 </div>
             </div>
 
-            <div className="container mb-32">
-                <div className="row">
-                    <div className="md:col-5">
-                        <Heading>Published work</Heading>
+            <div className="bg-gray-600">
+                <div style={{ height: '2px' }} className="w-full bg-gray-500 opacity-25"></div>
+                <div className="container pt-8 pb-20">
+                    <div className="row">
+                        <div className="md:col-4">
+                            <Heading>Published Work</Heading>
+                        </div>
                     </div>
-                </div>
-                <div className="row">
-                    {/* @include('_partials.news', ['news' => $post]) */}
-                    <div className="col-12 mt-6">
-                        <p className="text-blue-700">No published posts yet.</p>
+                    <div className="row">
+                        {posts.map(post => {
+                            return <News news={post} key={post.title} />
+                        })}
                     </div>
                 </div>
             </div>
-
 
         </Layout>
     )
 }
 
 export async function getStaticPaths() {
-    const files = fs.readdirSync("content/participants");
 
-    const paths = files.map((filename) => ({
-        params: {
-            slug: filename.replace(".md", ""),
-        },
-    }));
+    const paths = parseFiles("content/participants")
 
     return {
         paths,
@@ -65,16 +59,31 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params: { slug } }) {
 
-    const markdownWithMetadata = fs
-        .readFileSync(path.join("content/participants", slug + ".md"))
-        .toString();
+    let { data, content } = parseData("content/participants", slug);
 
-    let { data, content } = matter(markdownWithMetadata);
+    let posts = getCollection("content/portfolio_mk");
+
+    // Filter for author
+    posts = posts.filter(obj => {
+        return Array.from(obj.author).find(el => el === data.name)
+    })
+        .sort((a, b) => b.date - a.date)
+
+
+    posts = posts.map(item => {
+        return {
+            ...item,
+            date: item.date.toLocaleDateString(),
+        }
+    });
+    // Sort by date
+    // posts = posts.sort((a, b) => b.date - a.date);
 
     return {
         props: {
             data,
-            content
+            content,
+            posts
         },
     };
 }

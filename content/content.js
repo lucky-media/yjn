@@ -2,7 +2,27 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 
-export function parseFiles(folder) {
+
+function getCollection(folder) {
+    const files = fs.readdirSync(`${process.cwd()}/${folder}`);
+
+    const items = files.map((filename) => {
+        const markdownWithData = fs
+            .readFileSync(path.join(`${process.cwd()}/${folder}/${filename}`))
+            .toString();
+
+        let { data } = matter(markdownWithData);
+
+        return {
+            ...data,
+            slug: filename.replace(".md", "")
+        };
+    })
+
+    return items;
+}
+
+function parseFiles(folder) {
     const files = fs.readdirSync(`${process.cwd()}/${folder}`);
 
     const paths = files.map((filename) => ({
@@ -14,7 +34,7 @@ export function parseFiles(folder) {
     return paths;
 }
 
-export function parseData(folder, slug) {
+function parseData(folder, slug) {
     const markdownWithMetadata = fs
         .readFileSync(path.join(`${process.cwd()}/${folder}/${slug}.md`))
         .toString();
@@ -27,7 +47,7 @@ export function parseData(folder, slug) {
     }
 }
 
-export function parseWithDate(folder, slug) {
+function parseWithDate(folder, slug) {
 
     const markdownWithMetadata = fs
         .readFileSync(path.join(`${process.cwd()}/${folder}/${slug}.md`))
@@ -46,7 +66,7 @@ export function parseWithDate(folder, slug) {
     }
 }
 
-export function slugify(str) {
+function slugify(str) {
     str = str.replace(/^\s+|\s+$/g, ''); // trim
     str = str.toLowerCase();
 
@@ -62,4 +82,12 @@ export function slugify(str) {
         .replace(/-+/g, '-'); // collapse dashes
 
     return str;
+}
+
+module.exports = {
+    getCollection,
+    parseFiles,
+    parseData,
+    parseWithDate,
+    slugify
 }

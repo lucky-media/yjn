@@ -4,15 +4,17 @@ import ReactMarkdown from "react-markdown";
 import YellowNews from "../../../components/YellowNews";
 import Disclaimer from "../../../components/Disclaimer";
 import AuthorSection from "../../../components/AuthorSection";
+import { useRouter } from 'next/router'
 
 
-export default function singleParticipant({ content, data, authors }) {
+export default function porfolioIndex({ content, data, authors }) {
 
     const { title, cover, date, published } = data;
+    const router = useRouter();
 
     return (
         <Layout title={title}>
-            <YellowNews date={date}>
+            <YellowNews href={`/portfolio/mk/${router.query.slug}`} lang="al" date={date}>
                 {title}
             </YellowNews>
 

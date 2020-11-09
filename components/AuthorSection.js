@@ -25,14 +25,17 @@ export default function AuthorSection({ authors, published }) {
 
                         <div className="flex flex-col mt-6">
                             <div className="row">
-
-
-                                <div className="lg:col-6 py-4">
-                                    {authors.map(item => {
-                                        return <Author key={item.name} name={item.name} slug={item.slug} image={item.image} image_lg={item.image_lg} />
-                                    })}
-                                </div>
-
+                                {authors.map((item, i) => {
+                                    return (
+                                        <div key={item.slug} className="lg:col-6 py-4">
+                                            <Author
+                                                name={item.name}
+                                                slug={item.slug}
+                                                image={item.image}
+                                                image_lg={item.image_lg} />
+                                        </div>
+                                    )
+                                })}
                             </div>
                         </div>
                     </div>
@@ -41,7 +44,7 @@ export default function AuthorSection({ authors, published }) {
                         <div className="flex flex-col mt-6 space-y-2">
                             {Object.entries(published).map(([key, value]) => {
                                 return (
-                                    <a target="_blank" className="text-blue-400 text-xl font-bold mr-1 hover:underline" href={value}>
+                                    <a key={key} target="_blank" className="text-blue-400 text-xl font-bold mr-1 hover:underline" href={value}>
                                         {key}
                                     </a>
                                 )
