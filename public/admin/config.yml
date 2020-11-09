@@ -1,0 +1,104 @@
+backend:
+  name: git-gateway
+  branch: master
+
+local_backend: true
+
+media_folder: "public/images/"
+public_folder: "/images/"
+
+i18n:
+  structure: multiple_folders
+  locales: [al, mk]
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    editor:
+      preview: false
+    label_singular: "Post"
+    folder: "content/blog"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    i18n: true
+    fields:
+      - {label: "Title", name: "title", required: true, widget: "string", i18n: true}
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "participants"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
+        multiple: true
+        i18n: duplicate
+      - {label: "Date", name: "date", widget: "datetime", i18n: duplicate}
+      - label: "Cover Image"
+        name: "cover"
+        widget: "image"
+        required: true
+        i18n: duplicate
+        media_library:
+          config:
+            multiple: false
+      - {label: "Body", name: "body", widget: "markdown", i18n: true}
+  - name: "posts"
+    label: "Posts (MK)"
+    editor:
+      preview: false
+    label_singular: "Post"
+    folder: "content/portfolio_mk"
+    create: true
+    identifier_field: ""
+    slug: "{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "Title", name: "title", required: true, widget: "string"}
+      - label: "Author"
+        name: "author"
+        widget: "relation"
+        collection: "participants"
+        search_fields: ["name"]
+        value_field: "name"
+        display_fields: ["name"]
+        multiple: true
+      - {label: "Date", name: "date", widget: "datetime"}
+      - label: "Cover Image"
+        name: "cover"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "participants"
+    label: "Participants"
+    editor:
+      preview: false
+    label_singular: "Participants"
+    folder: "content/participants"
+    create: true
+    identifier_field: "name"
+    slug: "{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - {label: "Name", name: "name", required: true, widget: "string"}
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - label: "Image 2X"
+        name: "image_lg"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - {label: "Biography", name: "body", widget: "markdown"}
