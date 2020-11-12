@@ -1,12 +1,12 @@
 ---
-title: "Adrian Aziri: Arti dhe kultura duhet të kenë ndikim më të madh në
-  shoqërinë tonë"
-author:
-  - Ivana Nasteska
-  - Alberie Xhemaili
-date: 2020-11-09T22:32:30.126Z
-cover: /images/participants.jpg
+title: 'Adrian Aziri: Arti dhe kultura duhet të kenë ndikim më të madh në shoqërinë tonë'
+cover: '/images/uploads/adrian-aziri.jpg'
+date: 2020-02-23
+author: ['Ivana Nasteska', 'Alberie Xhemaili']
+published:
+ Diversity Media: 'http://diversitymedia.mk/adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone/'
 ---
+
 Shkruajnë: Ivana Nasteska dhe Albërie Xhemaili
 
 “Asnjëherë nuk i kam takuar asnjë klani, as ndonjë strukture politike. Jo se aktorët nuk duhet të jenë aktiv në politikë, por të merren me politikë të shëndoshë, jo me nivelin e ulët ku gjendet politika te ne. Llogaris veten si rebel dhe nëse ka më tepër njerëz me energji si e imja, ndikimi i kulturës dhe artit do të jetë më i lartë në shoqërinë tonë”, thotë aktori Adrian Aziri.
