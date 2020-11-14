@@ -16,15 +16,22 @@ collections:
     label: "Blog"
     editor:
       preview: false
-    label_singular: "Post"
+    label_singular: "Blog"
     folder: "content/blog"
     create: true
+    filter: { field: "date", value: "desc" }
     slug: "{{slug}}"
     extension: "md"
     format: "yaml-frontmatter"
     i18n: true
     fields:
-      - {label: "Title", name: "title", required: true, widget: "string", i18n: true}
+      - {
+          label: "Title",
+          name: "title",
+          required: true,
+          widget: "string",
+          i18n: true,
+        }
       - label: "Author"
         name: "author"
         widget: "relation"
@@ -34,7 +41,7 @@ collections:
         display_fields: ["name"]
         multiple: true
         i18n: duplicate
-      - {label: "Date", name: "date", widget: "datetime", i18n: duplicate}
+      - { label: "Date", name: "date", widget: "datetime", i18n: duplicate }
       - label: "Cover Image"
         name: "cover"
         widget: "image"
@@ -43,37 +50,7 @@ collections:
         media_library:
           config:
             multiple: false
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
-  - name: "posts"
-    label: "Posts (MK)"
-    editor:
-      preview: false
-    label_singular: "Post"
-    folder: "content/portfolio_mk"
-    create: true
-    identifier_field: ""
-    slug: "{{slug}}"
-    extension: "md"
-    format: "yaml-frontmatter"
-    fields:
-      - {label: "Title", name: "title", required: true, widget: "string"}
-      - label: "Author"
-        name: "author"
-        widget: "relation"
-        collection: "participants"
-        search_fields: ["name"]
-        value_field: "name"
-        display_fields: ["name"]
-        multiple: true
-      - {label: "Date", name: "date", widget: "datetime"}
-      - label: "Cover Image"
-        name: "cover"
-        widget: "image"
-        required: true
-        media_library:
-          config:
-            multiple: false
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
   - name: "participants"
     label: "Participants"
     editor:
@@ -86,7 +63,7 @@ collections:
     extension: "md"
     format: "yaml-frontmatter"
     fields:
-      - {label: "Name", name: "name", required: true, widget: "string"}
+      - { label: "Name", name: "name", required: true, widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"
@@ -101,4 +78,75 @@ collections:
         media_library:
           config:
             multiple: false
-      - {label: "Biography", name: "body", widget: "markdown"}
+      - { label: "Biography", name: "body", widget: "markdown" }
+  - name: "trainers"
+    label: "Trainers"
+    editor:
+      preview: false
+    label_singular: "Trainer"
+    folder: "content/trainers"
+    create: true
+    identifier_field: "name"
+    slug: "{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    fields:
+      - { label: "Name", name: "name", required: true, widget: "string" }
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - label: "Image 2X"
+        name: "image_lg"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - { label: "Biography", name: "body", widget: "markdown" }
+  - name: "Team"
+    label: "Team"
+    editor:
+      preview: false
+    label_singular: "Team"
+    folder: "content/team"
+    create: true
+    identifier_field: "name"
+    slug: "{{slug}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    sortable_fields: ["order"]
+    fields:
+      - { label: "Name", name: "name", required: true, widget: "string" }
+      - {
+          label: "Position",
+          name: "position",
+          required: false,
+          widget: "string",
+        }
+      - {
+          label: "Order",
+          name: "order",
+          required: true,
+          value_type: int,
+          min: 0,
+          widget: "number",
+        }
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - label: "Image 2X"
+        name: "image_lg"
+        widget: "image"
+        required: true
+        media_library:
+          config:
+            multiple: false
+      - { label: "Biography", name: "body", widget: "markdown" }

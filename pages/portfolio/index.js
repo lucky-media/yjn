@@ -24,10 +24,10 @@ export default function index({ news }) {
 
 export async function getStaticProps() {
 
-    const files = fs.readdirSync('content/portfolio_mk');
+    const files = fs.readdirSync('content/blog/mk');
 
     let items = files.map(filename => {
-        const markdownWithMetadata = fs.readFileSync(`content/portfolio_mk/${filename}`).toString();
+        const markdownWithMetadata = fs.readFileSync(`content/blog/mk/${filename}`).toString();
 
         let {
             data,
