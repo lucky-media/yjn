@@ -1,7 +1,7 @@
 ---
 name: Dushko Arsovski
-image: '/images/trainers/dushko.jpg'
-image_lg: '/images/trainers/dushko@2x.jpg'
+image: '/images/uploads/dushko.jpg'
+image_lg: '/images/uploads/dushko@2x.jpg'
 ---
 
 Dushko Arsovski is a journalist and media expert with over 20 years of experience working with Macedonian and International media as a reporter, producer, editor and anchor.  A researcher at the PDY State Department at the 2003-2004 academic year at NMSU, Las Cruces, he is a former editor of the BBC World Service Office in Skopje.  Dushko was awarded with "Question of the Year" in 2005 and the "Special Achievements in Reporting on EU Affairs" in 2006 both awards from the EU Delegation to Macedonia.  For two consecutive terms, he was a member of the “Mito Hadzivasilev Jasmin” Committee for State Journalism in 2013-2017.

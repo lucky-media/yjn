@@ -1,7 +1,7 @@
 ---
 name: Renata Penchova
-image: '/images/participants/renata_pencova.jpg'
-image_lg: '/images/participants/renata_pencova@2x.jpg'
+image: '/images/uploads/renata_pencova.jpg'
+image_lg: '/images/uploads/renata_pencova@2x.jpg'
 ---
 
 Renata Penchova is a student of the Faculty of Philology “Blaze Koneski” Skopje. She has worked as a host for the television show “Dzvon” on the Macedonian National Television. 

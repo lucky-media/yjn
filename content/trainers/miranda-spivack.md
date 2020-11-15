@@ -1,7 +1,7 @@
 ---
 name: Miranda Spivack
-image: '/images/trainers/miranda_spivack.jpg'
-image_lg: '/images/trainers/miranda_spivack@2x.jpg'
+image: '/images/uploads/miranda_spivack.jpg'
+image_lg: '/images/uploads/miranda_spivack@2x.jpg'
 ---
 
 Miranda Spivack has extensive experience in journalism with more than four decades as an investigative reporter and editor. A Fulbright Scholar in spring 2019 in North Macedonia, she is a former editor and reporter for The Washington Post. Miranda was awarded the Society of Professional Journalists' 2017 Sunshine Award for her “State Secrets” series for Reveal from The Center for Investigative Reporting and has been honored with many other journalism awards.   

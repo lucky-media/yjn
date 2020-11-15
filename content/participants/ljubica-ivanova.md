@@ -1,7 +1,7 @@
 ---
 name: Ljubica Ivanova
-image: '/images/participants/ljubica_ivanova.jpg'
-image_lg: '/images/participants/ljubica_ivanova@2x.jpg'
+image: '/images/uploads/ljubica_ivanova.jpg'
+image_lg: '/images/uploads/ljubica_ivanova@2x.jpg'
 ---
 
 Ljubica graduated journalism at the Faculty of Law „Iustinianus Primus“, University „Ss. Cyril and Methodius“ - Skopje (North Macedonia) in 2019. From 2018 she started volunteering at Center for investigative journalism SCOOP - Macedonia. Now she works there as an investigative journalist (freelancer). She writes investigative stories and also expresses her work through making short videos using mobile journalism. 

@@ -1,7 +1,7 @@
 ---
 name: Maja Terziova
-image: '/images/participants/maja_terziova.jpg'
-image_lg: '/images/participants/maja_terziova@2x.jpg'
+image: '/images/uploads/maja_terziova.jpg'
+image_lg: '/images/uploads/maja_terziova@2x.jpg'
 ---
 
 Maja Terziova studied in Journalism from the faculty of Law,Iustinionius Primus,at the University of St. Cyril and Methodius.

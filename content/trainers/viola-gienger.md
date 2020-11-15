@@ -1,7 +1,7 @@
 ---
 name: Viola Gienger
-image: '/images/trainers/viola_gienger.jpg'
-image_lg: '/images/trainers/viola_gienger@2x.jpg'
+image: '/images/uploads/viola_gienger.jpg'
+image_lg: '/images/uploads/viola_gienger@2x.jpg'
 ---
 
 Viola Gienger lived and worked for seven years in the former Soviet Union, Eastern Europe and the Western Balkans, including four years in Bosnia, first managing training programs and consulting for independent media in transition, and then as a freelance journalist. She has reported from more than 30 countries, including in the Middle East and Asia, and has appeared as a guest commentator and moderator in television, radio, and podcasts.

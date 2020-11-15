@@ -1,7 +1,7 @@
 ---
 name: Aleksandar Manasiev
-image: '/images/trainers/aleksandar_manasiev.jpg'
-image_lg: '/images/trainers/aleksandar_manasiev@2x.jpg'
+image: '/images/uploads/aleksandar_manasiev.jpg'
+image_lg: '/images/uploads/aleksandar_manasiev@2x.jpg'
 ---
 
 Aleksandar Manasiev is an award-winning investigative journalist from North Macedonia. He has been working as a professional journalist since 2003, mostly in print media in North Macedonia and as a foreign correspondent for several news media outlets.

@@ -1,7 +1,7 @@
 ---
 name: Xhelal Neziri
-image: '/images/trainers/xhelal_neziri.jpg'
-image_lg: '/images/trainers/xhelal_neziri@2x.jpg'
+image: '/images/uploads/xhelal_neziri.jpg'
+image_lg: '/images/uploads/xhelal_neziri@2x.jpg'
 ---
 
 Xhelal Neziri is experienced investigative reporter and analyst. He holds a Master Degree in Communication Science on the thesis: The presence of investigative journalism in printed media in Macedonia: analysis of newspapers. Since 2018 Neziri is a PhD Candidate in Political Science in the Program: Democracy in era of globalization.

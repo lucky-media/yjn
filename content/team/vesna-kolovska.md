@@ -1,9 +1,9 @@
 ---
 name: Vesna Kolovska
-image: '/images/team/vesna_kolovska.jpg'
+image: '/images/uploads/vesna_kolovska.jpg'
 order: 5
 position: Co - Editor
-image_lg: '/images/team/vesna_kolovska@2x.jpg'
+image_lg: '/images/uploads/vesna_kolovska@2x.jpg'
 ---
 
 Vesna has been in journalism for 29 years, mainly as a radio journalist and editor of the National radio network Kanal 77 and a BBC correspondent from Skopje. Works on investigative stories as well as researcher. For the last 10 years she has been working as a coach and mentor for young journalists. She has won numerous journalism awards, including the Nikola Mladenov Prize for Investigative Journalism.

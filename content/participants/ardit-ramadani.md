@@ -1,7 +1,7 @@
 ---
 name: Ardit Ramadani
-image: '/images/participants/ardit_ramadani.jpg'
-image_lg: '/images/participants/ardit_ramadani@2x.jpg'
+image: '/images/uploads/ardit_ramadani.jpg'
+image_lg: '/images/uploads/ardit_ramadani@2x.jpg'
 ---
 
 Ardit Ramadani has a bachelor degree in LAW; nevertheless, he has been working as a journalist since the age of 17. He embarked on journalism by working the first two years as an intern in an online media called “ShqipMedia”, where he was later promoted and hired. During this internship, he also volunteered at a local non-governmental organization “Multikultura”, which lead him to write for an online media known as “Bon Zo”.

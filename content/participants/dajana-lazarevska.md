@@ -1,7 +1,7 @@
 ---
 name: Dajana Lazarevska
-image: '/images/participants/dajana_lazarevska.jpg'
-image_lg: '/images/participants/dajana_lazarevska@2x.jpg'
+image: '/images/uploads/dajana_lazarevska.jpg'
+image_lg: '/images/uploads/dajana_lazarevska@2x.jpg'
 ---
 
 "Socially active and aware about the problems and challenges in the society . Human rights activist fighting for equality .

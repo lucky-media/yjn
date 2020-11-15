@@ -1,7 +1,7 @@
 ---
 name: Ardi Zhuta
-image: '/images/participants/ardi_zhuta.jpg'
-image_lg: '/images/participants/ardi_zhuta@2x.jpg'
+image: '/images/uploads/ardi_zhuta.jpg'
+image_lg: '/images/uploads/ardi_zhuta@2x.jpg'
 ---
 
 Ardi Zhuta has a long career of hosting, starting from middle school with some festivals and concerts in North Macedonia, Kosovo and Albania. His television career started at 21 Television. First he served in the morning show as a host and journalist. Later, he operated in the news department, covering social and cultural topics. These opportunities, lead him to host a show business show on afternoon broadcasts. 

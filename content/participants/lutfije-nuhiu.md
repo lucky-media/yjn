@@ -1,7 +1,7 @@
 ---
 name: Lutfije Nuhiu
-image: '/images/participants/lutfije_nuhiu.jpg'
-image_lg: '/images/participants/lutfije_nuhiu@2x.jpg'
+image: '/images/uploads/lutfije_nuhiu.jpg'
+image_lg: '/images/uploads/lutfije_nuhiu@2x.jpg'
 ---
 
 Lutfije Nuhiji currently is a student in "Ss.Cyril and Methodius University of Skopje", in the Faculty of Pedagogy.

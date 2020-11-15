@@ -1,7 +1,7 @@
 ---
 name: Rrita Syla
-image: '/images/participants/rita_syla.jpg'
-image_lg: '/images/participants/rita_syla@2x.jpg'
+image: '/images/uploads/rita_syla.jpg'
+image_lg: '/images/uploads/rita_syla@2x.jpg'
 ---
 
 Rrita holds a master’s degree in English Language and Literature from South East European University. She did her MA research at the University of Education in Heidelberg. Rrita has worked as a content writer, English teacher, and currently is freelancing as a social media consultant. 

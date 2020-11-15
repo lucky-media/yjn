@@ -1,9 +1,9 @@
 ---
 name: Kristina Ozimec
-image: '/images/team/kristina_ozimec.jpg'
+image: '/images/uploads/kristina_ozimec.jpg'
 order: 3
 position: Project Coordinator
-image_lg: '/images/team/kristina_ozimec@2x.jpg'
+image_lg: '/images/uploads/kristina_ozimec@2x.jpg'
 ---
 
 Kristina Ozimec is an investigative journalist from Skopje and president of the Platform for Investigative Journalism and Analyses – PINA. She is also Head organizer of the Investigative Film Festival Skopje.
