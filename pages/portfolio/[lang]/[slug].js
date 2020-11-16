@@ -6,45 +6,62 @@ import YellowNews from "../../../components/YellowNews";
 import Disclaimer from "../../../components/Disclaimer";
 import AuthorSection from "../../../components/AuthorSection";
 import { useRouter } from "next/router";
+import { NextSeo } from "next-seo";
+import useUrl from "../../../utils/useUrl";
 
 export default function porfolioIndex({ content, data, authors }) {
   const { title, cover, date, published } = data;
   const router = useRouter();
+  const url = useUrl();
 
   let lang = router.query.lang === "mk" ? "al" : "mk";
 
   return (
-    <Layout title={title}>
-      <YellowNews
-        href={`/portfolio/${lang}/${router.query.slug}`}
-        lang={router.query.lang}
-        date={date}
-      >
-        {title}
-      </YellowNews>
+    <>
+      <NextSeo
+        title={`${title} - Young Journalists' Network`}
+        openGraph={{
+          title: `${title} - Young Journalists' Network`,
+          images: [
+            {
+              url: url + cover,
+              alt: "OG Image",
+            },
+          ],
+        }}
+      />
+      <Layout title={title}>
+        <YellowNews
+          href={`/portfolio/${lang}/${router.query.slug}`}
+          lang={router.query.lang}
+          date={date}
+        >
+          {title}
+        </YellowNews>
 
-      {/* Content Section */}
-      <div className="container my-20">
-        <div className="row justify-center">
-          <div className="md:col-10 lg:col-8">
-            <img
-              style={{ maxHeight: "400px" }}
-              className="w-full h-auto object-cover mb-10"
-              src={cover}
-              alt={title}
-            />
+        {/* Content Section */}
+        <div className="container my-20">
+          <div className="row justify-center">
+            <div className="md:col-10 lg:col-8">
+              <img
+                style={{ maxHeight: "400px" }}
+                className="w-full h-auto object-cover mb-10"
+                src={cover}
+                alt={title}
+              />
 
-            <div className="prose max-w-none">
-              <ReactMarkdown source={content} />
+              <div className="prose max-w-none">
+                <ReactMarkdown source={content} />
+              </div>
+              <Disclaimer />
             </div>
-            <Disclaimer />
           </div>
         </div>
-      </div>
 
-      {/* Author Section */}
-      <AuthorSection authors={authors} published={published} />
-    </Layout>
+        {/* Author Section */}
+        <AuthorSection authors={authors} published={published} />
+      </Layout>
+    </>
   );
 }
 
