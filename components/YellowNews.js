@@ -4,7 +4,6 @@ import Link from "next/link";
 
 export default function YellowNews({ children, date, href, lang }) {
   const language = lang === "mk" ? "Albanian" : "Macedonian";
-  console.log(lang);
 
   return (
     <div className="bg-yellow-500">
