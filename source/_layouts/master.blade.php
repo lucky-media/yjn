@@ -60,7 +60,7 @@
                         <p class="text-xs md:text-sm text-white">© Copyright 2020 -  Made with
                             <span class="text-yellow-500">&#9829;</span> from
                             <a class="font-bold pb-2 border-b-2 border-transparent hover:border-yellow-500"
-                               href="http://www.luckymedia.mk">Lucky Media</a>
+                               href="https://www.luckymedia.dev/?ref=yjn" rel="external">Lucky Media</a>
                         </p>
                     </div>
                 </div>
