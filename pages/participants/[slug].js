@@ -28,18 +28,18 @@ export default function singleParticipant({ content, data, posts }) {
         <YellowHeader>{name}</YellowHeader>
 
         <div className="container mt-20 mb-5 md:mt-32">
-          <div className="row justify-between">
+          <div className="justify-between row">
             <div className="md:col-6">
               <img
                 style={{ maxHeight: "800px" }}
-                className="w-full h-auto object-cover mb-10 md:mb-0"
+                className="object-cover w-full h-auto mb-10 md:mb-0"
                 srcSet={image_lg}
                 src={image}
                 alt={name}
               />
             </div>
             <div className="md:col-6 md-content">
-              <ReactMarkdown source={content} />
+              <ReactMarkdown children={content} />
             </div>
           </div>
         </div>

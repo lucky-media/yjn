@@ -28,12 +28,12 @@ export default function singleParticipant({ content, data }) {
       <Layout title={name}>
         <YellowHeader>{name}</YellowHeader>
 
-        <div className="container mt-20 mb-20 md:mb-32  md:mt-32">
-          <div className="row justify-between">
+        <div className="container mt-20 mb-20 md:mb-32 md:mt-32">
+          <div className="justify-between row">
             <div className="md:col-5">
               <div className="max-w-md">
                 <img
-                  className="w-full h-full rounded-full object-cover mb-10 md:mb-0"
+                  className="object-cover w-full h-full mb-10 rounded-full md:mb-0"
                   srcSet={image_lg}
                   src={image}
                   alt={name}
@@ -41,7 +41,7 @@ export default function singleParticipant({ content, data }) {
               </div>
             </div>
             <div className="md:col-6 md:offset-1 md-content">
-              <ReactMarkdown source={content} />
+              <ReactMarkdown children={content} />
             </div>
           </div>
         </div>

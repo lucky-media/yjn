@@ -1,5 +1,6 @@
 ---
 name: Lutfije Nuhiu
+year: "2020"
 image: '/images/uploads/lutfije_nuhiu.jpg'
 image_lg: '/images/uploads/lutfije_nuhiu@2x.jpg'
 ---

@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  squash_merges: true
 
 local_backend: true
 
@@ -64,6 +65,7 @@ collections:
     format: "yaml-frontmatter"
     fields:
       - { label: "Name", name: "name", required: true, widget: "string" }
+      - { label: "Year", name: "year", required: true, widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"

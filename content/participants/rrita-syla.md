@@ -1,5 +1,6 @@
 ---
 name: Rrita Syla
+year: "2020"
 image: '/images/uploads/rita_syla.jpg'
 image_lg: '/images/uploads/rita_syla@2x.jpg'
 ---

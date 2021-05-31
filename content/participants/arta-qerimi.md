@@ -1,5 +1,6 @@
 ---
 name: Arta Qerimi
+year: "2020"
 image: '/images/uploads/arta_qerimi.jpg'
 image_lg: '/images/uploads/arta_qerimi@2x.jpg'
 ---

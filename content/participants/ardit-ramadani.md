@@ -1,5 +1,6 @@
 ---
 name: Ardit Ramadani
+year: "2020"
 image: '/images/uploads/ardit_ramadani.jpg'
 image_lg: '/images/uploads/ardit_ramadani@2x.jpg'
 ---

@@ -1,5 +1,6 @@
 ---
 name: Maja Terziova
+year: "2020"
 image: '/images/uploads/maja_terziova.jpg'
 image_lg: '/images/uploads/maja_terziova@2x.jpg'
 ---

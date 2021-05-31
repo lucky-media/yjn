@@ -1,6 +1,6 @@
 ---
-name: Adem Jashari
-year: "2020"
+name: Art Zenku
+year: "2021"
 image: /images/uploads/adem_jashari.jpg
 image_lg: /images/uploads/adem_jashari@2x.jpg
 ---

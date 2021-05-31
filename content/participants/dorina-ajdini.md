@@ -1,5 +1,6 @@
 ---
 name: Dorina Ajdini
+year: "2020"
 image: '/images/uploads/dorina_ajdini.jpg'
 image_lg: '/images/uploads/dorina_ajdini@2x.jpg'
 ---

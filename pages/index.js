@@ -8,12 +8,12 @@ import Trainer from "../components/Trainer";
 
 export default function Home({ trainers }) {
   return (
-    <Layout title="Home ">
+    <Layout title="Home">
       <div className="bg-yellow-500">
         <div className="container py-24 lg:py-32">
           <div className="row">
             <div className="lg:col-8">
-              <h1 className="font-black text-2xl lg:text-5xl text-blue-500 leading-tight">
+              <h1 className="text-2xl font-black leading-tight text-blue-500 lg:text-5xl">
                 Young Journalists’ Network
               </h1>
             </div>
@@ -26,8 +26,8 @@ export default function Home({ trainers }) {
 
       {/* Participants */}
       <Link href="/participants">
-        <div className="blue-cover flex justify-center items-center cursor-pointer">
-          <h1 className="text-4xl sm:text-5xl text-white text-center font-black absolute z-20">
+        <div className="flex items-center justify-center cursor-pointer blue-cover">
+          <h1 className="absolute z-20 text-4xl font-black text-center text-white sm:text-5xl">
             Meet our Participants
           </h1>
         </div>

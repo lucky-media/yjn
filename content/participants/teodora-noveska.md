@@ -1,5 +1,6 @@
 ---
 name: Teodora Noveska
+year: "2020"
 image: '/images/uploads/teodora_noveska.jpg'
 image_lg: '/images/uploads/teodora_noveska@2x.jpg'
 ---

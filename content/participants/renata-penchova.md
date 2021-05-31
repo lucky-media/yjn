@@ -1,5 +1,6 @@
 ---
 name: Renata Penchova
+year: "2020"
 image: '/images/uploads/renata_pencova.jpg'
 image_lg: '/images/uploads/renata_pencova@2x.jpg'
 ---

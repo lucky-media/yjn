@@ -1,5 +1,6 @@
 ---
 name: Alberie Xhemaili
+year: "2020"
 image: '/images/uploads/alberie_xhemaili.jpg'
 image_lg: '/images/uploads/alberie_xhemaili@2x.jpg'
 ---

@@ -1,5 +1,6 @@
 ---
 name: Ivana Nasteska
+year: "2020"
 image: '/images/uploads/ivana_nasteska.jpg'
 image_lg: '/images/uploads/ivana_nasteska@2x.jpg'
 ---

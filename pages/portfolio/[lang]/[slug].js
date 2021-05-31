@@ -41,17 +41,17 @@ export default function porfolioIndex({ content, data, authors }) {
 
         {/* Content Section */}
         <div className="container my-20">
-          <div className="row justify-center">
+          <div className="justify-center row">
             <div className="md:col-10 lg:col-8">
               <img
                 style={{ maxHeight: "400px" }}
-                className="w-full h-auto object-cover mb-10"
+                className="object-cover w-full h-auto mb-10"
                 src={cover}
                 alt={title}
               />
 
               <div className="prose max-w-none">
-                <ReactMarkdown source={content} />
+                <ReactMarkdown children={content} />
               </div>
               <Disclaimer />
             </div>

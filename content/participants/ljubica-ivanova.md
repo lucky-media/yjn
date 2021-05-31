@@ -1,5 +1,6 @@
 ---
 name: Ljubica Ivanova
+year: "2020"
 image: '/images/uploads/ljubica_ivanova.jpg'
 image_lg: '/images/uploads/ljubica_ivanova@2x.jpg'
 ---

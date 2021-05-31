@@ -1,5 +1,6 @@
 ---
 name: Evi Shkopi
+year: "2020"
 image: '/images/uploads/evi_shkopi.jpg'
 image_lg: '/images/uploads/evi_shkopi@2x.jpg'
 ---

@@ -1,5 +1,6 @@
 ---
 name: Shefkije Alasani
+year: "2020"
 image: '/images/uploads/shefkije_alasani.jpg'
 image_lg: '/images/uploads/shefkije_alasani@2x.jpg'
 ---

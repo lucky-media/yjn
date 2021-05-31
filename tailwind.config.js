@@ -1,13 +1,8 @@
 const config = require('tailwindcss/defaultTheme');
-const plugin = require('tailwindcss/plugin');
-const { theme } = require('tailwindcss/stubs/defaultConfig.stub');
 
 module.exports = {
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
-  purge: [],
+  purge: ['./components/**/*.js', './pages/**/*.js'],
+  mode: 'jit',
   theme: {
     extend: {
       fontFamily: {
@@ -41,16 +36,19 @@ module.exports = {
       }
     },
   },
-  variants: {
-    margin: ['responsive', 'last'],
-    borderWidth: ['responsive', 'last']
-  },
   corePlugins: {
     container: false,
   },
   plugins: [
     require('tailwind-bootstrap-grid')({
       gridGutterWidth: '32px',
+      containerMaxWidths: {
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+        xl: '1280px',
+        '2xl': '1280px',
+      },
     }),
     require('@tailwindcss/typography')
   ],

@@ -1,5 +1,6 @@
 ---
 name: Rita Behadini
+year: "2020"
 image: '/images/uploads/rita_behadini.jpg'
 image_lg: '/images/uploads/rita_behadini@2x.jpg'
 ---

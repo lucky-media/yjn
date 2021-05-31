@@ -1,5 +1,6 @@
 ---
 name: Ardi Zhuta
+year: "2020"
 image: '/images/uploads/ardi_zhuta.jpg'
 image_lg: '/images/uploads/ardi_zhuta@2x.jpg'
 ---

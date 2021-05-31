@@ -1,5 +1,6 @@
 ---
 name: Dajana Lazarevska
+year: "2020"
 image: '/images/uploads/dajana_lazarevska.jpg'
 image_lg: '/images/uploads/dajana_lazarevska@2x.jpg'
 ---

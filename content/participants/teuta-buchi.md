@@ -1,5 +1,6 @@
 ---
 name: Teuta Buchi
+year: "2020"
 image: '/images/uploads/teuta_buci.jpg'
 image_lg: '/images/uploads/teuta_buci@2x.jpg'
 ---
