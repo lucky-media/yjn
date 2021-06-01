@@ -65,22 +65,27 @@ collections:
     format: "yaml-frontmatter"
     fields:
       - { label: "Name", name: "name", required: true, widget: "string" }
-      - { label: "Year", name: "year", required: true, widget: "string" }
+      - { label: "Year", name: "year", required: false, widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"
-        required: true
+        required: false
         media_library:
           config:
             multiple: false
       - label: "Image 2X"
         name: "image_lg"
         widget: "image"
-        required: true
+        required: false
         media_library:
           config:
             multiple: false
-      - { label: "Biography", name: "body", widget: "markdown" }
+      - {
+          label: "Biography",
+          name: "body",
+          required: false,
+          widget: "markdown",
+        }
   - name: "trainers"
     label: "Trainers"
     editor:
@@ -94,6 +99,7 @@ collections:
     format: "yaml-frontmatter"
     fields:
       - { label: "Name", name: "name", required: true, widget: "string" }
+      - { label: "Year", name: "year", required: false, widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"

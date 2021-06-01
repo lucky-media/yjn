@@ -33,8 +33,8 @@ export default function singleParticipant({ content, data, posts }) {
               <img
                 style={{ maxHeight: "800px" }}
                 className="object-cover w-full h-auto mb-10 md:mb-0"
-                srcSet={image_lg}
-                src={image}
+                srcSet={image_lg ? image_lg : '/images/user.jpeg'}
+                src={image ? image : '/images/user.jpeg'}
                 alt={name}
               />
             </div>
@@ -44,24 +44,26 @@ export default function singleParticipant({ content, data, posts }) {
           </div>
         </div>
 
-        <div className="bg-gray-600">
-          <div
-            style={{ height: "2px" }}
-            className="w-full bg-gray-500 opacity-25"
-          ></div>
-          <div className="container pt-8 pb-20">
-            <div className="row">
-              <div className="md:col-4">
-                <Heading>Published Work</Heading>
+        {posts.length > 0 && (
+          <div className="bg-gray-600">
+            <div
+              style={{ height: "2px" }}
+              className="w-full bg-gray-500 opacity-25"
+            ></div>
+            <div className="container pt-8 pb-20">
+              <div className="row">
+                <div className="md:col-4">
+                  <Heading>Published Work</Heading>
+                </div>
+              </div>
+              <div className="row">
+                {posts.map((post) => {
+                  return <News news={post} key={post.title} />;
+                })}
               </div>
             </div>
-            <div className="row">
-              {posts.map((post) => {
-                return <News news={post} key={post.title} />;
-              })}
-            </div>
           </div>
-        </div>
+        )}
       </Layout>
     </>
   );

@@ -2,6 +2,7 @@
 name: Donna Leinwandleger
 image: '/images/uploads/donna_leinwandleger.jpg'
 image_lg: '/images/uploads/donna_leinwandleger@2x.jpg'
+year: '2020 - 2021'
 ---
 
 Donna  Leinwand Leger is the former managing editor of USA TODAY, president of DC Media Strategies and senior advisor to Stanton Communications.
