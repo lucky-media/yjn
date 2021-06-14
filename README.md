@@ -1,30 +1,30 @@
-# Webstarter
-A starter template for building static websites with Tailwind, Vue and Jigsaw.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# Features
-- Tailwind CSS for styling
-- Purge CSS configured for production
-- VueJS as a frontend framework
-- Jigsaw for static file generation
-- Blade templating engine
-- Bootstrap grid for Tailwind
-- Poppins as default font as an example
+## Getting Started
 
-# What will you need
-- [Composer](https://www.getcomposer.org/) installed.
-- [NodeJS with NPM](https://nodejs.org/en/)
+First, run the development server:
 
-# How to install
-Start by cloning the project then running the following **commands**:
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-For installing Jigsaw with its dependencies.  
-``` composer install ```  
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-For installing the required frontend libraries. 
-``` npm install . ```  
- 
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-# How to use it
-``` npm run watch ``` for development.  
-``` npm run production ``` for production.  
-``` ./vendor/bin/jigsaw build ``` for building the pages.  
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
