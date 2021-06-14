@@ -3,7 +3,7 @@ backend:
   branch: master
   squash_merges: true
 
-local_backend: true
+# local_backend: true
 
 media_folder: "public/images/uploads/"
 public_folder: "/images/uploads/"
