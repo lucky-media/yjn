@@ -103,8 +103,7 @@ export async function getStaticProps({ params: { lang, slug } }) {
     return {
       name: author.data.name,
       slug: slugify(author.data.name),
-      image: author.data.image,
-      image_lg: author.data.image_lg,
+      image: author.data.image || null,
     };
   });
 

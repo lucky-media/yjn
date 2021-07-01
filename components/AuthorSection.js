@@ -31,8 +31,7 @@ export default function AuthorSection({ authors, published }) {
                                             <Author
                                                 name={item.name}
                                                 slug={item.slug}
-                                                image={item.image}
-                                                image_lg={item.image_lg} />
+                                                image={item.image} />
                                         </div>
                                     )
                                 })}
