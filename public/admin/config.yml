@@ -3,6 +3,8 @@ backend:
   branch: master
   squash_merges: true
 
+media_folder: "public/images/uploads/"
+public_folder: "/images/uploads/"
 local_backend: true
 
 i18n:
