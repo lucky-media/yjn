@@ -1,7 +1,6 @@
 ---
 name: James G. Wright
-image: '/images/uploads/james_wright.jpg'
-image_lg: '/images/uploads/james_wright@2x.jpg'
+image: '/images/trainers/james_wright.jpg'
 ---
 
 James G. Wright is a senior editor at OCCRP. Prior to joining, he was investigations editor at the Courier Journal in Louisville, Kentucky. During the 2016-17 academic year he was a Knight Wallace Fellow at the University of Michigan, where he researched the influence of political mega-donors on American foreign policy. As deputy editor of the Las Vegas Review-Journal in 2015, Wright lead an investigation that exposed casino magnate Sheldon Adelson’s secret purchase of the paper and covert efforts to undermine the Nevada judiciary. Previously, he was a reporter and editor specializing in

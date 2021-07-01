@@ -1,8 +1,7 @@
 ---
 name: Rita Behadini
 year: "2020"
-image: '/images/uploads/rita_behadini.jpg'
-image_lg: '/images/uploads/rita_behadini@2x.jpg'
+image: '/images/participants/rita_behadini.jpg'
 ---
 
 Rita Behadini has always had a passion about journalism. From her time as a high school student engagement in issues that affect our lives has been important for her. Feeling the need for action in present times she started writing original pieces. Although this was not particularly journalism related, it motivated and inspired her to continue in the path of journalism. The experiences gained during this time, whether they were learning to understand people or the critiques from professors, have been invaluable to the further development of her journalistic abilities. 

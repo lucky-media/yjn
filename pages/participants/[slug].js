@@ -8,7 +8,7 @@ import { NextSeo } from "next-seo";
 import useUrl from "../../utils/useUrl";
 
 export default function singleParticipant({ content, data, posts }) {
-  const { name, image, image_lg } = data;
+  const { name, image } = data;
   const url = useUrl();
   return (
     <>
@@ -33,7 +33,6 @@ export default function singleParticipant({ content, data, posts }) {
               <img
                 style={{ maxHeight: "800px" }}
                 className="object-cover w-full h-auto mb-10 md:mb-0"
-                srcSet={image_lg ? image_lg : '/images/user.jpeg'}
                 src={image ? image : '/images/user.jpeg'}
                 alt={name}
               />

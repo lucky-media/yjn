@@ -1,7 +1,6 @@
 ---
 name: Donna Leinwandleger
-image: '/images/uploads/donna_leinwandleger.jpg'
-image_lg: '/images/uploads/donna_leinwandleger@2x.jpg'
+image: '/images/trainers/donna_leinwandleger.jpg'
 year: '2020 - 2021'
 ---
 

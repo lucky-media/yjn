@@ -1,8 +1,7 @@
 ---
 name: Ivana Nasteska
 year: "2020"
-image: '/images/uploads/ivana_nasteska.jpg'
-image_lg: '/images/uploads/ivana_nasteska@2x.jpg'
+image: '/images/participants/ivana_nasteska.jpg'
 ---
 
 Ivana Nasteska graduated journalism at the Faculty of Law at the State University of Ss. Cyril and Methodius – Skopje.

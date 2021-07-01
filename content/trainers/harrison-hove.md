@@ -1,7 +1,6 @@
 ---
 name: Harrison Hove
-image: '/images/uploads/harrison_hove.jpg'
-image_lg: '/images/uploads/harrison_hove@2x.jpg'
+image: '/images/trainers/harrison_hove.jpg'
 ---
 
 Harrison Hove is a Lecturer at the University of Florida’s College of Journalism and Communications. He teaches courses on television news reporting, investigative reporting, broadcast writing, and performance. Harrison also produces award winning, large scale projects with student journalists for WUFT-TV, a PBS affiliate. He has mentored four students who have earned spots at the Heart Journalism Awards National Championships, including the last two national champions in the television category.

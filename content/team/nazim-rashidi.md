@@ -1,9 +1,8 @@
 ---
 name: Nazim Rashidi
-image: '/images/uploads/nazim_rashidi.jpg'
+image: '/images/team/nazim_rashidi.jpg'
 order: 4
 position: Editor
-image_lg: '/images/uploads/nazim_rashidi@2x.jpg'
 ---
 
 Graduated journalism in University of Tirana, part of different courses on journalism and politics in Danish School of Journalism, Deutsche Welle, BBC, OSCE, US State Department Programme on Leadership, ect,

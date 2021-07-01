@@ -1,8 +1,7 @@
 ---
 name: Arta Qerimi
 year: "2020"
-image: '/images/uploads/arta_qerimi.jpg'
-image_lg: '/images/uploads/arta_qerimi@2x.jpg'
+image: '/images/participants/arta_qerimi.jpg'
 ---
 
 Arta graduated Public Relations at International Balkan University in Skopje and, concurrently, European Studies at Mother Teresa University in Skopje. She was awarded as the best student from Faculty of Communications, department of Public Relations at International Balkan University in 2019.

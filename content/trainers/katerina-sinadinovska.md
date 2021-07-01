@@ -1,7 +1,6 @@
 ---
 name: Katerina Sinadinovska
-image: '/images/uploads/katerina_sinadinovska.jpg'
-image_lg: '/images/uploads/katerina_sinadinovska@2x.jpg'
+image: '/images/trainers/katerina_sinadinovska.jpg'
 ---
 
 Katerina Sinadinovska obtained degree in journalism from the St.Cyril and Methodius University in Skopje in 2008. She is currently the assistant - editor in chief of Kapital, a weekly business and political magazine for which she has been working since 2010. She is also an author and editor of the TV project "Agenda 35" broadcasted on the national public television, an educational program about the reforms that will have to be adopted during the negotiation process with the EU.

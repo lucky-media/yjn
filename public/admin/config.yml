@@ -3,10 +3,7 @@ backend:
   branch: master
   squash_merges: true
 
-# local_backend: true
-
-media_folder: "public/images/uploads/"
-public_folder: "/images/uploads/"
+local_backend: true
 
 i18n:
   structure: multiple_folders
@@ -22,6 +19,8 @@ collections:
     create: true
     filter: { field: "date", value: "desc" }
     slug: "{{slug}}"
+    media_folder: "public/images/uploads/"
+    public_folder: "/images/uploads/"
     extension: "md"
     format: "yaml-frontmatter"
     i18n: true
@@ -51,6 +50,16 @@ collections:
         media_library:
           config:
             multiple: false
+      - label: "Published Media"
+        name: "published"
+        widget: "list"
+        i18n: true
+        fields:
+          - { label: "Media", name: media, widget: string }
+          - label: Link
+            name: link
+            widget: string
+
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
   - name: "participants"
     label: "Participants"
@@ -61,6 +70,8 @@ collections:
     create: true
     identifier_field: "name"
     slug: "{{slug}}"
+    media_folder: "{{dirname}}/public/images/participants"
+    public_folder: "/images/participants"
     extension: "md"
     format: "yaml-frontmatter"
     fields:
@@ -68,13 +79,6 @@ collections:
       - { label: "Year", name: "year", required: false, widget: "string" }
       - label: "Image"
         name: "image"
-        widget: "image"
-        required: false
-        media_library:
-          config:
-            multiple: false
-      - label: "Image 2X"
-        name: "image_lg"
         widget: "image"
         required: false
         media_library:
@@ -107,13 +111,6 @@ collections:
         media_library:
           config:
             multiple: false
-      - label: "Image 2X"
-        name: "image_lg"
-        widget: "image"
-        required: true
-        media_library:
-          config:
-            multiple: false
       - { label: "Biography", name: "body", widget: "markdown" }
   - name: "Team"
     label: "Team"
@@ -124,6 +121,8 @@ collections:
     create: true
     identifier_field: "name"
     slug: "{{slug}}"
+    media_folder: "{{dirname}}/public/images/team"
+    public_folder: "/images/team"
     extension: "md"
     format: "yaml-frontmatter"
     sortable_fields: ["order"]
@@ -145,13 +144,6 @@ collections:
         }
       - label: "Image"
         name: "image"
-        widget: "image"
-        required: true
-        media_library:
-          config:
-            multiple: false
-      - label: "Image 2X"
-        name: "image_lg"
         widget: "image"
         required: true
         media_library:

@@ -1,8 +1,7 @@
 ---
 name: Dajana Lazarevska
 year: "2020"
-image: '/images/uploads/dajana_lazarevska.jpg'
-image_lg: '/images/uploads/dajana_lazarevska@2x.jpg'
+image: '/images/participants/dajana_lazarevska.jpg'
 ---
 
 "Socially active and aware about the problems and challenges in the society . Human rights activist fighting for equality .

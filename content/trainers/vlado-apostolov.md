@@ -1,7 +1,6 @@
 ---
 name: Vlado Apostolov
-image: '/images/uploads/vlado_apostolov.jpg'
-image_lg: '/images/uploads/vlado_apostolov@2x.jpg'
+image: '/images/trainers/vlado_apostolov.jpg'
 ---
 
 Vlado has been covering topics related to organised crime, corruption and human rights for the last five years and at the beginnings of his journalism career he was working as a reporter in the economic newsrooms in several media.

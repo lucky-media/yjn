@@ -1,7 +1,6 @@
 ---
 name: Rosemary Armao
-image: '/images/uploads/rosemary_armao.jpg'
-image_lg: '/images/uploads/rosemary_armao@2x.jpg'
+image: '/images/trainers/rosemary_armao.jpg'
 ---
 
 Rosemary Armao has spent nearly 50 years as a newspaper reporter, editor, professor, and radio commentator in the US, Middle East, eastern Europe and Africa.

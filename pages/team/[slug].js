@@ -34,7 +34,6 @@ export default function singleParticipant({ content, data }) {
               <img
                 style={{ maxHeight: "800px" }}
                 className="object-cover w-full h-auto mb-10 md:mb-0"
-                srcSet={image_lg}
                 src={image}
                 alt={name}
               />
