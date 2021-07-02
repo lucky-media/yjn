@@ -27,8 +27,6 @@ published:
     link: http://diversitymedia.mk/maqedonia-e-mbyllur/
 ---
 
-## Diversity Media: http://diversitymedia.mk/maqedonia-e-mbyllur/
-
 Nuk kishte ndodhur më parë që në Maqedoninë njerëzit të mbylleshin për mbi 60 ose mbi 80 orë. Kjo ndodhi për herë të parë nga 10 prilli, e premte prej orës 16.00 e deri të hënën 13 prill, në ora 05.00 dhe nga 17 prilli prej orës 16.00 e deri të martën 21 prill në 5 të mëngjesit. Karantinat ishin pjesë e masave për tu mbrojtur nga koronavirusi. Por si ishte jeta e ngujuar e njerëzve në Maqedoninë e Veriut?
 
 Pjesëmarrësit e Rrjetit të Gazetarëve të Rinj, kanë raportuar e dokumentuar nëpërmjet fotografive jetën në karantinë në vendbanimet e tyre.
