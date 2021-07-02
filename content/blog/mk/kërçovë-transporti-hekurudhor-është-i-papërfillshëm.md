@@ -1,5 +1,6 @@
 ---
 title: Железничкиот превоз во Кичево – незабележителен
+slug: kercove-transporti-hekurudhor-eshte-i-paperfillshem
 author:
   - Albina Sefadini
   - Edlira Sadiku

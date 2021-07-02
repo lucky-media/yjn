@@ -1,5 +1,6 @@
 ---
 title: Поплаките за семејно насилство се зголемиле за време на пандемијата
+slug: ankesat-per-dhune-ne-familje-jane-rritur-gjate-kohes-se-pandemise
 author:
   - Blerim Salihi
   - Kristijan Trajchov

@@ -1,6 +1,7 @@
 ---
 title: Дел од самохраните родители – без финансиска поддршка наменета за
   еднородителските семејства
+slug: nje-pjese-e-prinderve-te-vetem-pa-perkrahje-financiare-te-dedikuar-per-familjet-me-nje-prind
 author:
   - Kristijan Trajchov
   - Vanja Micevska

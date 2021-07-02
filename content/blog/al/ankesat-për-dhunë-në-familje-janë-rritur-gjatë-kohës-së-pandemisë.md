@@ -1,5 +1,6 @@
 ---
 title: Ankesat për dhunë në familje janë rritur gjatë kohës së pandemisë
+slug: ankesat-per-dhune-ne-familje-jane-rritur-gjate-kohes-se-pandemise
 author:
   - Blerim Salihi
   - Kristijan Trajchov

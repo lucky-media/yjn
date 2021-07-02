@@ -1,5 +1,6 @@
 ---
 title: "[Инфографик] Во Скопје изречени најмногу казни за неносење маски"
+slug: infografike-ne-shkup-jane-shqiptuar-me-se-shumti-denime-per-mosmbajtje-te-maskave
 author:
   - Daniel Vasilev
   - Besmira Ibraimi

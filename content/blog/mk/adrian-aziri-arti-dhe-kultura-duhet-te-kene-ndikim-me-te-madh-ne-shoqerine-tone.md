@@ -1,10 +1,14 @@
 ---
-title: 'Адриан Азири: Уметноста и културата треба да имаат поголемо влијание врз нашето општество'
-cover: '/images/uploads/adrian-aziri.jpg'
-date: 2020-02-23
-author: ['Ivana Nasteska', 'Alberie Xhemaili']
+title: "Адриан Азири: Уметноста и културата треба да имаат поголемо влијание врз
+  нашето општество"
+slug: adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone
+author:
+  - Ivana Nasteska
+  - Alberie Xhemaili
+date: 2020-02-23T16:00:41.649Z
+cover: /images/uploads/adrian-aziri.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d0%b0%d0%b4%d1%80%d0%b8%d0%b0%d0%bd-%d0%b0%d0%b7%d0%b8%d1%80%d0%b8-%d1%83%d0%bc%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d0%b0-%d0%b8-%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d1%82%d1%80/'
+  Diversity Media: http://diversitymedia.mk/%d0%b0%d0%b4%d1%80%d0%b8%d0%b0%d0%bd-%d0%b0%d0%b7%d0%b8%d1%80%d0%b8-%d1%83%d0%bc%d0%b5%d1%82%d0%bd%d0%be%d1%81%d1%82%d0%b0-%d0%b8-%d0%ba%d1%83%d0%bb%d1%82%d1%83%d1%80%d0%b0%d1%82%d0%b0-%d1%82%d1%80/
 ---
 
 Пишуваат: Ивана Настеска и Алберие Џемаили

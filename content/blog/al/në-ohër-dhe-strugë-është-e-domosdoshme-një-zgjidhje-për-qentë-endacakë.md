@@ -1,5 +1,6 @@
 ---
 title: Në Ohër dhe Strugë është e domosdoshme një zgjidhje për qentë endacakë
+slug: ne-oher-dhe-struge-eshte-e-domosdoshme-nje-zgjidhje-per-qente-endacake
 author:
   - Ilmie Zhaku
   - Daniel Vasilev

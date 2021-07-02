@@ -1,5 +1,6 @@
 ---
 title: Патот на Шар – Планина до национален парк
+slug: rruga-e-malit-sharr-deri-ne-park-nacional
 author:
   - Blerim Salihi
   - Zenel Miftari

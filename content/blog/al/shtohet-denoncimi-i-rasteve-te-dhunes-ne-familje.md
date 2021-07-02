@@ -1,11 +1,13 @@
 ---
 title: Shtohet denoncimi i rasteve të dhunës në familje
-cover: '/images/uploads/shtohet-denoncimi-i-rasteve-ne-familje.jpeg'
-date: 2020-03-26
-author: ['Teuta Buchi', 'Evi Shkopi']
+slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+author:
+  - Teuta Buchi
+  - Evi Shkopi
+date: 2020-03-26T16:00:41.649Z
+cover: /images/uploads/shtohet-denoncimi-i-rasteve-ne-familje.jpeg
 published:
- Diversity Media: 'http://diversitymedia.mk/shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje/'
-
+  Diversity Media: http://diversitymedia.mk/shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje/
 ---
 
 Shkruajnë: Evi Shkopi, Teuta Buçi

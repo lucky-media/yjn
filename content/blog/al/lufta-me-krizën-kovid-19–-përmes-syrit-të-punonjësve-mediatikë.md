@@ -1,5 +1,6 @@
 ---
 title: Lufta me krizën Kovid-19– përmes syrit të punonjësve mediatikë
+slug: lufta-me-krizen-kovid-19-permes-syrit-te-punonjesve-mediatike
 author:
   - Martin Koloski
   - Besmira Ibraimi

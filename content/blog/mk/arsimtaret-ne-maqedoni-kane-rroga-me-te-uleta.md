@@ -1,11 +1,14 @@
 ---
 title: Наставниците во Македонија имаат најниски плати и највисоки животни трошоци
-cover: '/images/uploads/salary.jpg'
-date: 2020-01-26
-author: ['Rrita Syla', 'Ardit Ramadani']
+slug: arsimtaret-ne-maqedoni-kane-rroga-me-te-uleta-dhe-shpenzime-me-te-larta-per-jetese
+author:
+  - Rrita Syla
+  - Ardit Ramadani
+date: 2020-01-26T16:00:41.649Z
+cover: /images/uploads/salary.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d0%bd%d0%b0%d1%81%d1%82%d0%b0%d0%b2%d0%bd%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8%d0%bc%d0%b0%d0%b0%d1%82-%d0%bd%d0%b0%d1%98/'
-
+  - media: 'Diversity Media'
+    link: 'http://diversitymedia.mk/%d0%bd%d0%b0%d1%81%d1%82%d0%b0%d0%b2%d0%bd%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0-%d0%b8%d0%bc%d0%b0%d0%b0%d1%82-%d0%bd%d0%b0%d1%98/'
 ---
 
 Пишуваат: Рита Сила и Ардит Рамадани

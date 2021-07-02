@@ -1,11 +1,13 @@
 ---
 title: Grumbullohen para për organizim studentor, por a ekziston në praktikë?
-cover: '/images/uploads/article-2.jpg'
-date: 2020-02-08
-author: ['Shefkije Alasani', 'Teodora Noveska']
+slug: grumbullohen-para-per-organizim-studentor-por-a-ekziston-ne-praktike
+author:
+  - Shefkije Alasani
+  - Teodora Noveska
+date: 2020-02-08T16:00:41.649Z
+cover: /images/uploads/article-2.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/'
-
+  Diversity Media: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
 ---
 
 Edhe pse nuk ka asnjë organizatë studentore tashmë dy vjet, gjatë regjistrimit të semestrit në fakultetet e Universitetit “Goce Delcev” në Shtip, pagesa në emër të Parlamentit Studentor është e detyrueshme.

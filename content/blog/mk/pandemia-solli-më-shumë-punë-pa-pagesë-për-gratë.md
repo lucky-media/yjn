@@ -1,5 +1,6 @@
 ---
 title: Пандемијата донесе повеќе неплатена работа за жените
+slug: pandemia-solli-me-shume-pune-pa-pagese-per-grate
 author:
   - Vanja Micevska
   - Zenel Miftari

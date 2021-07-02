@@ -1,5 +1,6 @@
 ---
 title: НАМАЛУВАЊЕТО НА АВТОБУСКИТЕ ЛИНИИ, ЗАГРИЖУВАЧКИ ЗА ГРАЃАНИТЕ
+slug: reduktimi-i-linjave-te-autobuseve-shqetesim-per-qytetaret
 author:
   - Fisnik Xhelili
 date: 2021-06-24T16:15:53.819Z

@@ -1,5 +1,6 @@
 ---
 title: REDUKTIMI I LINJAVE TË AUTOBUSËVE, SHQETËSIM PËR QYTETARËT
+slug: reduktimi-i-linjave-te-autobuseve-shqetesim-per-qytetaret
 author:
   - Fisnik Xhelili
 date: 2021-06-24T16:15:53.819Z

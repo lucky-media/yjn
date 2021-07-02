@@ -1,5 +1,6 @@
 ---
 title: Pandemia solli më shumë punë pa pagesë për gratë
+slug: pandemia-solli-me-shume-pune-pa-pagese-per-grate
 author:
   - Vanja Micevska
   - Zenel Miftari

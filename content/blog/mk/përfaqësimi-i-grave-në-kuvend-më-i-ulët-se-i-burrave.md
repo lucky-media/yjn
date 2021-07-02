@@ -1,5 +1,6 @@
 ---
 title: ЗАСТАПЕНОСТА НА ЖЕНИТЕ ВО СОБРАНИЕТО, ПОНИСКА ОД НА МАЖИТЕ
+slug: perfaqesimi-i-grave-ne-kuvend-me-i-ulet-se-i-burrave
 author:
   - Fisnik Xhelili
 date: 2021-04-19T15:34:30.365Z

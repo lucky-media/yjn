@@ -1,6 +1,7 @@
 ---
 title: "[Инфографик] Над 3.200 млади останале без работа за време на кризата со
   Ковид-19 "
+slug: infografik-me-shume-se-3200-te-rinj-kane-mbetur-pa-pune-gjate-kohes-se-krizes-me-kovid-19
 author:
   - Ilmie Zhaku
   - Martin Koloski

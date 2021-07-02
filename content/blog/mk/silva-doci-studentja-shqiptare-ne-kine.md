@@ -1,10 +1,13 @@
 ---
-title: 'Силва Дочи, студентка во Кина: Го сакам Вухан дури и со вирус'
-cover: '/images/uploads/wuhan.jpg'
-date: 2020-01-26
-author: ['Ardit Ramadani', 'Rrita Syla']
+title: "Силва Дочи, студентка во Кина: Го сакам Вухан дури и со вирус"
+slug: silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-virus
+author:
+  - Ardit Ramadani
+  - Rrita Syla
+date: 2020-01-26T16:00:41.649Z
+cover: /images/uploads/wuhan.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d1%81%d0%b8%d0%bb%d0%b2%d0%b0-%d0%b4%d0%be%d1%87%d0%b8-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%ba%d0%b0-%d0%b2%d0%be-%d0%ba%d0%b8%d0%bd%d0%b0-%d0%b3%d0%be-%d1%81%d0%b0%d0%ba%d0%b0%d0%bc/'
+  Diversity Media: http://diversitymedia.mk/%d1%81%d0%b8%d0%bb%d0%b2%d0%b0-%d0%b4%d0%be%d1%87%d0%b8-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%ba%d0%b0-%d0%b2%d0%be-%d0%ba%d0%b8%d0%bd%d0%b0-%d0%b3%d0%be-%d1%81%d0%b0%d0%ba%d0%b0%d0%bc/
 ---
 
 Пишуваат: Ардит Рамадани и Рита Сила

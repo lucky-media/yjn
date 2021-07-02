@@ -1,6 +1,7 @@
 ---
 title: "[Infografik] Më shumë se 3.200 të rinj kanë mbetur pa punë gjatë kohës
   së krizës me Kovid-19"
+slug: infografik-me-shume-se-3200-te-rinj-kane-mbetur-pa-pune-gjate-kohes-se-krizes-me-kovid-19
 author:
   - Ilmie Zhaku
   - Martin Koloski

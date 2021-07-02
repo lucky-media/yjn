@@ -1,10 +1,14 @@
 ---
-title: 'Jovana Georgieva, mbajtëse medaljeje në karate: Sfida më e madhe është që frika të shndërrohet në liri'
-cover: '/images/uploads/jovana.jpg'
-date: 2020-02-21
-author: ['Teodora Noveska', 'Shefkije Alasani']
+title: "Jovana Georgieva, mbajtëse medaljeje në karate: Sfida më e madhe është
+  që frika të shndërrohet në liri"
+slug: jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri
+author:
+  - Teodora Noveska
+  - Shefkije Alasani
+date: 2020-02-21T16:00:41.649Z
+cover: /images/uploads/jovana.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri/'
+  Diversity Media: http://diversitymedia.mk/jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri/
 ---
 
 Shkruajnë: Teodora Noveska dhe Shefkije Alasani

@@ -1,5 +1,6 @@
 ---
 title: Дел од градовите со малку буџетски пари за младите
+slug: nje-pjese-e-qyteteve-me-pak-mjete-buxhetore-per-te-rinjte
 author:
   - Blerim Salihi
   - Vanja Micevska

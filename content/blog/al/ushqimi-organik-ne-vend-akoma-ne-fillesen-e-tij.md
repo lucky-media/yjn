@@ -1,12 +1,14 @@
 ---
 title: Ushqimi organik në vend – akoma në fillesën e tij
-cover: '/images/uploads/organic-food.jpg'
-date: 2020-01-10
-author: ['Ljubica Ivanova', 'Arta Qerimi']
+slug: ushqimi-organik-ne-vend-akoma-ne-fillesen-e-tij
+author:
+  - Ljubica Ivanova
+  - Arta Qerimi
+date: 2020-01-10T16:00:41.649Z
+cover: /images/uploads/organic-food.jpg
 published:
- Pina: 'https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/'
- Diversity Media: 'http://diversitymedia.mk/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d1%83%d1%88%d1%82/'
-
+  Pina: https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/
+  Diversity Media: http://diversitymedia.mk/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d1%83%d1%88%d1%82/
 ---
 
 **Qytetarët nuk e ndjekin shumë trendin botëror të përdorimit të ushqimit organik. Pjesërisht, kjo u përshkruhet çmimeve më të larta të prodhimeve organike, por edhe faktit se shitoret ku mund të gjendet ushqim organik janë të rralla. Përkundër rekomandimeve të përditshme të nutricionistëve për konsumim të rregullt të prodhimeve organike, mbetet e hapur çështja se sa këtë ushqim mund ta blejnë qytetarët.**

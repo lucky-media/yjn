@@ -1,6 +1,7 @@
 ---
 title: QENTË ENDACAKË RREZIKOJNË BANORËT E KËRÇOVËS, QINDRA TË KAFSHUAR BRENDA
   NJË VITI
+slug: qente-endacake-rrezikojne-banoret-e-kercoves-qindra-te-kafshuar-brenda-nje-viti
 author:
   - Edlira Sadiku
   - Albina Sefadini

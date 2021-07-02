@@ -1,5 +1,6 @@
 ---
 title: Борбата со Ковид-19 кризата – преку будното око на медиумските работници
+slug: lufta-me-krizen-kovid-19-permes-syrit-te-punonjesve-mediatike
 author:
   - Martin Koloski
   - Besmira Ibraimi

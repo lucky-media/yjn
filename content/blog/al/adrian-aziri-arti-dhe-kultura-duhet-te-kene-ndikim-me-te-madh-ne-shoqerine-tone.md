@@ -1,10 +1,14 @@
 ---
-title: 'Adrian Aziri: Arti dhe kultura duhet të kenë ndikim më të madh në shoqërinë tonë'
-cover: '/images/uploads/adrian-aziri.jpg'
-date: 2020-02-23
-author: ['Ivana Nasteska', 'Alberie Xhemaili']
+title: "Adrian Aziri: Arti dhe kultura duhet të kenë ndikim më të madh në
+  shoqërinë tonë"
+slug: adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone
+author:
+  - Ivana Nasteska
+  - Alberie Xhemaili
+date: 2020-02-23T16:00:41.649Z
+cover: /images/uploads/adrian-aziri.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone/'
+  Diversity Media: http://diversitymedia.mk/adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone/
 ---
 
 Shkruajnë: Ivana Nasteska dhe Albërie Xhemaili

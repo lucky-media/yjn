@@ -1,5 +1,6 @@
 ---
 title: Zyrtarët kanë shpenzuar pak për transport publik
+slug: zyrtaret-kane-shpenzuar-pak-per-transport-publik
 author:
   - Martin Koloski
   - Besmira Ibraimi

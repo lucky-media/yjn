@@ -1,5 +1,6 @@
 ---
 title: Во Охрид и Струга потребно решение за бездомните кучиња
+slug: ne-oher-dhe-struge-eshte-e-domosdoshme-nje-zgjidhje-per-qente-endacake
 author:
   - Ilmie Zhaku
   - Daniel Vasilev

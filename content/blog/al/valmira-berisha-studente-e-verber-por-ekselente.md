@@ -1,10 +1,13 @@
 ---
 title: Shtohet denoncimi i rasteve të dhunës në familje
-cover: '/images/uploads/valmira-berisha.jpg'
-date: 2020-02-24
-author: ['Dorina Ajdini', 'Ardi Zhuta']
+slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+author:
+  - Dorina Ajdini
+  - Ardi Zhuta
+date: 2020-02-24T16:00:41.649Z
+cover: /images/uploads/valmira-berisha.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/valmira-berisha-studente-e-verber-por-ekselente/'
+  Diversity Media: http://diversitymedia.mk/valmira-berisha-studente-e-verber-por-ekselente/
 ---
 
 Shkruajnë: Dorina Ajdini, Ardi Zhuta

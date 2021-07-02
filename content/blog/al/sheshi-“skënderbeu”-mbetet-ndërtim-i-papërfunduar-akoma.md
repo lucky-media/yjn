@@ -1,5 +1,6 @@
 ---
 title: Sheshi “Skënderbeu” mbetet ndërtim i papërfunduar akoma
+slug: sheshi-skenderbeu-mbetet-ndertim-i-paperfunduar-akoma
 author:
   - Arta Sefadini
   - Valon Mani

@@ -1,5 +1,6 @@
 ---
 title: Covid-19, nuk konfirmohet efikasiteti i trajtimit me plazmën e gjakut
+slug: covid-19-nuk-konfirmohet-efikasiteti-i-trajtimit-me-plazmen-e-gjakut
 author:
   - Arta Sefadini
   - Valon Mani

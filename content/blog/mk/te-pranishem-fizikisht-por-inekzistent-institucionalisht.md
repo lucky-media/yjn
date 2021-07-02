@@ -1,12 +1,14 @@
 ---
 title: Физички присутни, но институционално непостоечки
-cover: '/images/uploads/article-3.jpg'
-date: 2020-01-16
-author: ['Evi Shkopi', 'Ivana Nasteska']
+slug: te-pranishem-fizikisht-por-inekzistent-institucionalisht
+author:
+  - Evi Shkopi
+  - Ivana Nasteska
+date: 2020-01-16T16:00:41.649Z
+cover: /images/uploads/article-3.jpg
 published:
- Pina: 'https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/'
- Diversity Media: 'http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/'
-
+  Pina: https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/
+  Diversity Media: http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/
 ---
 
 Во земјава според институциите постојат стотици граѓани кои немаат документи за идентификација. Од друга страна, невладините организации укажуваат за илјадници лица кои поради тоа што немаат документи, не уживаат никакви основни права како образование или здравство.

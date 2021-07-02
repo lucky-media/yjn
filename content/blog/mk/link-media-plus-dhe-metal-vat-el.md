@@ -1,11 +1,26 @@
 ---
-title: „Линк медиа плус“ и „Метал ват –ел“ рекордери по јавни набавки за новогодишното украсување
-cover: '/images/uploads/article-1.jpg'
-date: 2019-12-06
-author: ['Rrita Syla', 'Ardit Ramadani', 'Maja Terziova', 'Dorina Ajdini', 'Ljubica Ivanova', 'Arta Qerimi', 'Ivana Nasteska', 'Alberie Xhemaili', 'Shefkije Alasani', 'Teodora Noveska', 'Adem Jashari', 'Teuta Buchi', 'Rita Behadini', 'Dajana Lazarevska']
+title: „Линк медиа плус“ и „Метал ват –ел“ рекордери по јавни набавки за
+  новогодишното украсување
+slug: link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit
+author:
+  - Rrita Syla
+  - Ardit Ramadani
+  - Maja Terziova
+  - Dorina Ajdini
+  - Ljubica Ivanova
+  - Arta Qerimi
+  - Ivana Nasteska
+  - Alberie Xhemaili
+  - Shefkije Alasani
+  - Teodora Noveska
+  - Adem Jashari
+  - Teuta Buchi
+  - Rita Behadini
+  - Dajana Lazarevska
+date: 2019-12-06T16:00:41.649Z
+cover: /images/uploads/article-1.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/'
-
+  Diversity Media: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
 ---
 
 Нова Година е несомнено еден од најголемите празници, кој се слави низ целиот свет. Украсувањето на градовите, локалите и куќите се неодминлива работа, која со годините стана традиција. Новогодишната елка, осветлување и Дедо Мраз се главните симболи, но не и единствените, кои ги гледаме на секој градски плоштад во тек на месец декември. Студентите на Академијата на Демокраси лаб, направија преглед на трошоците за новогодишно украсување во периодот од 2016 – 2019 година за општините Струга, Тетово, Град Скопје, Радовиш, Куманово, Ресен, Битола и Карпош. Карактеристично е дека Град Скопје има највисоки износи за украсувањето, додека од анализа за останатите општини, две компании – „Линк медиа плус“ и „Метал ват – ел“ најчесто добивале јавни набавки.

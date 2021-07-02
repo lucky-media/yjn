@@ -1,5 +1,6 @@
 ---
-title: FSHATI ME POTENCIAL TURISTIK SHNDËRROHET NË DEPONI MASIVE
+title: Fshati me potencial turistik shndërrohet në deponi masive
+slug: fshati-me-potencial-turistik-shnderrohet-ne-deponi-masive
 author:
   - Albina Sefadini
   - Valon Salai

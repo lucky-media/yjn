@@ -1,5 +1,4 @@
-import fs from "fs";
-import { slugify, parseData, parseWithDate } from "../../../content/content";
+import { slugify, parseData, getCollection } from "../../../content/content";
 import Layout from "../../../components/layout/Layout";
 import ReactMarkdown from "react-markdown";
 import YellowNews from "../../../components/YellowNews";
@@ -66,21 +65,21 @@ export default function porfolioIndex({ content, data, authors }) {
 }
 
 export async function getStaticPaths() {
-  const albanianFiles = fs.readdirSync("content/blog/al");
+  const albanianFiles = getCollection("content/blog/al");
 
-  const albPaths = albanianFiles.map((filename) => ({
+  const albPaths = albanianFiles.map((file) => ({
     params: {
       lang: "al",
-      slug: filename.replace(".md", ""),
+      slug: file.slug,
     },
   }));
 
-  const mkFiles = fs.readdirSync("content/blog/mk");
+  const mkFiles = getCollection("content/blog/mk");
 
-  const mkPaths = mkFiles.map((filename) => ({
+  const mkPaths = mkFiles.map((file) => ({
     params: {
       lang: "mk",
-      slug: filename.replace(".md", ""),
+      slug: file.slug,
     },
   }));
 
@@ -91,7 +90,10 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params: { lang, slug } }) {
-  let { data, content } = parseWithDate(`content/blog/${lang}`, slug);
+
+  let items = getCollection(`content/blog/${lang}`);
+
+  let data = items.find((item) => item.slug === slug);
 
   let authors = [];
 
@@ -110,7 +112,7 @@ export async function getStaticProps({ params: { lang, slug } }) {
   return {
     props: {
       data,
-      content,
+      content: data.content,
       authors,
     },
   };

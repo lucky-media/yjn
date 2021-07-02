@@ -1,12 +1,14 @@
 ---
 title: Се собираат пари за студентско организирање, но дали го има во пракса?
-cover: '/images/uploads/article-2.jpg'
-date: 2020-02-08
-author: ['Shefkije Alasani', 'Teodora Noveska']
+slug: grumbullohen-para-per-organizim-studentor-por-a-ekziston-ne-praktike
+author:
+  - Shefkije Alasani
+  - Teodora Noveska
+date: 2020-02-08T16:00:41.649Z
+cover: /images/uploads/article-2.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d1%81%d0%b5-%d1%81%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d1%81%d0%ba%d0%be-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8/'
- Pina: 'https://pina.mk/3017-se-sobiraat-pari-za-studentsko-organizirane-no-dali-go-ima-vo-praksa/'
-
+  Diversity Media: http://diversitymedia.mk/%d1%81%d0%b5-%d1%81%d0%be%d0%b1%d0%b8%d1%80%d0%b0%d0%b0%d1%82-%d0%bf%d0%b0%d1%80%d0%b8-%d0%b7%d0%b0-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d1%81%d0%ba%d0%be-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d0%b8/
+  Pina: https://pina.mk/3017-se-sobiraat-pari-za-studentsko-organizirane-no-dali-go-ima-vo-praksa/
 ---
 
 Иако веќе две години нема репрезентативна студентска организација, при уписот на семестар на факултетите на Универзитетот „Гоце Делчев“ од Штип, задолжителна е уплатата на име „Студентски парламент“. На сметката на Здружението на граѓани „Студенски парламент при УГД“ во 2018 година студентите уплатиле над еден милион денари. И во 2019 година студентите плаќаа на име „Студентски парламент“, но парите се уплатуваа на сметка на универзитетот.

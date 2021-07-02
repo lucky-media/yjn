@@ -1,11 +1,14 @@
 ---
-title: Кога сте во количка „работите во Македонија се луксуз, а во Германија се нормални“
-cover: '/images/uploads/kur-je-ne-karroce-gjerat-qe-ne-maqedoni.jpg'
-date: 2020-02-26
-author: ['Rita Behadini', 'Dajana Lazarevska']
+title: Кога сте во количка „работите во Македонија се луксуз, а во Германија се
+  нормални“
+slug: kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale
+author:
+  - Rita Behadini
+  - Dajana Lazarevska
+date: 2020-02-26T16:00:41.649Z
+cover: /images/uploads/kur-je-ne-karroce-gjerat-qe-ne-maqedoni.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d0%ba%d0%be%d0%b3%d0%b0-%d1%81%d1%82%d0%b5-%d0%b2%d0%be-%d0%ba%d0%be%d0%bb%d0%b8%d1%87%d0%ba%d0%b0-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5/'
-
+  Diversity Media: http://diversitymedia.mk/%d0%ba%d0%be%d0%b3%d0%b0-%d1%81%d1%82%d0%b5-%d0%b2%d0%be-%d0%ba%d0%be%d0%bb%d0%b8%d1%87%d0%ba%d0%b0-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b8%d1%82%d0%b5-%d0%b2%d0%be-%d0%bc%d0%b0%d0%ba%d0%b5/
 ---
 
 Пишуваат: Рита Бехадини и Дајана Лазаревска

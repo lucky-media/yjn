@@ -1,6 +1,7 @@
 ---
 title: КУЧИЊАТА СКИТНИЦИ ГИ ЗАГРОЗУВААТ ЖИТЕЛИТЕ НА КИЧЕВО, СТОТИЦИ КАСНАТИ ВО
   ТЕК НА ЕДНА ГОДИНА
+slug: qente-endacake-rrezikojne-banoret-e-kercoves-qindra-te-kafshuar-brenda-nje-viti
 author:
   - Edlira Sadiku
   - Albina Sefadini

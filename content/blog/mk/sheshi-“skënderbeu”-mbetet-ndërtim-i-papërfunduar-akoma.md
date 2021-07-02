@@ -1,5 +1,6 @@
 ---
 title: "Плоштадот „Скендербег“ – сè уште недовршена градба "
+slug: sheshi-skenderbeu-mbetet-ndertim-i-paperfunduar-akoma
 author:
   - Arta Sefadini
   - Valon Mani

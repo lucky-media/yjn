@@ -1,5 +1,6 @@
 ---
 title: KËRÇOVË, TRANSPORTI HEKURUDHOR ËSHTË I PAPËRFILLSHËM
+slug: kercove-transporti-hekurudhor-eshte-i-paperfillshem
 author:
   - Albina Sefadini
   - Edlira Sadiku

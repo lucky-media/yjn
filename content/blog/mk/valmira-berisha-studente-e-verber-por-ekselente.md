@@ -1,10 +1,13 @@
 ---
 title: Ваљмира Бериша – слепа но, извонредна студентка
-cover: '/images/uploads/valmira-berisha.jpg'
-date: 2020-02-24
-author: ['Dorina Ajdini', 'Ardi Zhuta']
+slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+author:
+  - Dorina Ajdini
+  - Ardi Zhuta
+date: 2020-02-24T16:00:41.649Z
+cover: /images/uploads/valmira-berisha.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d0%b2%d0%b0%d1%99%d0%bc%d0%b8%d1%80%d0%b0-%d0%b1%d0%b5%d1%80%d0%b8%d1%88%d0%b0-%d1%81%d0%bb%d0%b5%d0%bf%d0%b0-%d0%bd%d0%be-%d0%b8%d0%b7%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%b0-%d1%81%d1%82/'
+  Diversity Media: http://diversitymedia.mk/%d0%b2%d0%b0%d1%99%d0%bc%d0%b8%d1%80%d0%b0-%d0%b1%d0%b5%d1%80%d0%b8%d1%88%d0%b0-%d1%81%d0%bb%d0%b5%d0%bf%d0%b0-%d0%bd%d0%be-%d0%b8%d0%b7%d0%b2%d0%be%d0%bd%d1%80%d0%b5%d0%b4%d0%bd%d0%b0-%d1%81%d1%82/
 ---
 
 „Луѓето не гледаат со очи, туку со ум“. Оваа е мотото, кое целиот свој живот го следи Ваљмира Бериша, откога докторите и’ дијагностицирале Ретино патиа ментоса, болест од која го губи видот.

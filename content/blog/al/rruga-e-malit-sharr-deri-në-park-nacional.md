@@ -1,5 +1,6 @@
 ---
 title: Rruga e Malit Sharr deri në park nacional
+slug: rruga-e-malit-sharr-deri-ne-park-nacional
 author:
   - Blerim Salihi
   - Zenel Miftari

@@ -1,11 +1,29 @@
 ---
 title: Maqedonia “e mbyllur”
-cover: '/images/uploads/zatvorena-makedonija-640x480.jpg'
-date: 2020-04-23
-author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Penchova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
+slug: maqedonia-e-mbyllur
+author:
+  - Adem Jashari
+  - Alberie Xhemaili
+  - Ardi Zhuta
+  - Ardit Ramadani
+  - Arta Qerimi
+  - Dajana Lazarevska
+  - Dorina Ajdini
+  - Evi Shkopi
+  - Ivana Nasteska
+  - Ljubica Ivanova
+  - Lutfije Nuhiu
+  - Maja Terziova
+  - Renata Penchova
+  - Rita Behadini
+  - Rrita Syla
+  - Shefkije Alasani
+  - Teodora Noveska
+  - Teuta Buchi
+date: 2020-04-23T16:00:41.649Z
+cover: /images/uploads/zatvorena-makedonija-640x480.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/maqedonia-e-mbyllur/'
-
+  Diversity Media: http://diversitymedia.mk/maqedonia-e-mbyllur/
 ---
 
 Nuk kishte ndodhur më parë që në Maqedoninë njerëzit të mbylleshin për mbi 60 ose mbi 80 orë. Kjo ndodhi për herë të parë nga 10 prilli, e premte prej orës 16.00 e deri të hënën 13 prill, në ora 05.00 dhe nga 17 prilli prej orës 16.00 e deri të martën 21 prill në 5 të mëngjesit. Karantinat ishin pjesë e masave për tu mbrojtur nga koronavirusi. Por si ishte jeta e ngujuar e njerëzve në Maqedoninë e Veriut?

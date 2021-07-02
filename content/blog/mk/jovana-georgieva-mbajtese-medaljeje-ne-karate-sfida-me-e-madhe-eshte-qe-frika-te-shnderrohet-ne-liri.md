@@ -1,10 +1,14 @@
 ---
-title: 'Јована Георгиева,европски медалист во карате:Најголем предзвик е стравот да се претвори во слобода'
-cover: '/images/uploads/jovana.jpg'
-date: 2020-02-21
-author: ['Teodora Noveska', 'Shefkije Alasani']
+title: Јована Георгиева,европски медалист во карате:Најголем предзвик е стравот
+  да се претвори во слобода
+slug: jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri
+author:
+  - Teodora Noveska
+  - Shefkije Alasani
+date: 2020-02-21T16:00:41.649Z
+cover: /images/uploads/jovana.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d1%98%d0%be%d0%b2%d0%b0%d0%bd%d0%b0-%d0%b3%d0%b5%d0%be%d1%80%d0%b3%d0%b8%d0%b5%d0%b2%d0%b0%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%81%d0%ba%d0%b8-%d0%bc%d0%b5%d0%b4%d0%b0%d0%bb%d0%b8%d1%81%d1%82-%d0%b2/'
+  Diversity Media: http://diversitymedia.mk/%d1%98%d0%be%d0%b2%d0%b0%d0%bd%d0%b0-%d0%b3%d0%b5%d0%be%d1%80%d0%b3%d0%b8%d0%b5%d0%b2%d0%b0%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%81%d0%ba%d0%b8-%d0%bc%d0%b5%d0%b4%d0%b0%d0%bb%d0%b8%d1%81%d1%82-%d0%b2/
 ---
 
 Пишуваат: Теодора Новеска и Шефкије Аласани

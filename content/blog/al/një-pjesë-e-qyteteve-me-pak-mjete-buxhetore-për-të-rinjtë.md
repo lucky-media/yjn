@@ -1,5 +1,6 @@
 ---
 title: Një pjesë e qyteteve me pak mjete buxhetore për të rinjtë
+slug: nje-pjese-e-qyteteve-me-pak-mjete-buxhetore-per-te-rinjte
 author:
   - Blerim Salihi
   - Vanja Micevska

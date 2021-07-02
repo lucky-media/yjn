@@ -1,11 +1,13 @@
 ---
 title: Органската храна во земјава – се’ уште во зачеток
-cover: '/images/uploads/organic-food.jpg'
-date: 2020-01-10
-author: ['Ljubica Ivanova', 'Arta Qerimi']
+slug: ushqimi-organik-ne-vend-akoma-ne-fillesen-e-tij
+author:
+  - Ljubica Ivanova
+  - Arta Qerimi
+date: 2020-01-10T16:00:41.649Z
+cover: /images/uploads/organic-food.jpg
 published:
- Pina: 'https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/'
-
+  Pina: https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/
 ---
 
 **Граѓаните малку го следат светскиот тренд на употреба на органска храна. Делумно, тоа се должи на повисоките цени на органските производи, но и на фактот дека ретки се маркетите каде може да се најде органска храна. Наспроти секојдневната препорака на нутриционистите за редовно консумирање на органски производи, отворено е прашањето колку оваа храна можат да си ја дозволат граѓаните.**

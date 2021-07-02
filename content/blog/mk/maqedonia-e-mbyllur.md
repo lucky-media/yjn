@@ -1,11 +1,29 @@
 ---
 title: „Затворена“ Македонија
-cover: '/images/uploads/zatvorena-makedonija-640x480.jpg'
-date: 2020-04-23
-author: ['Adem Jashari', 'Alberie Xhemaili', 'Ardi Zhuta', 'Ardit Ramadani', 'Arta Qerimi', 'Dajana Lazarevska', 'Dorina Ajdini', 'Evi Shkopi', 'Ivana Nasteska', 'Ljubica Ivanova', 'Lutfije Nuhiu', 'Maja Terziova', 'Renata Penchova', 'Rita Behadini', 'Rrita Syla', 'Shefkije Alasani', 'Teodora Noveska', 'Teuta Buchi']
+slug: maqedonia-e-mbyllur
+author:
+  - Adem Jashari
+  - Alberie Xhemaili
+  - Ardi Zhuta
+  - Ardit Ramadani
+  - Arta Qerimi
+  - Dajana Lazarevska
+  - Dorina Ajdini
+  - Evi Shkopi
+  - Ivana Nasteska
+  - Ljubica Ivanova
+  - Lutfije Nuhiu
+  - Maja Terziova
+  - Renata Penchova
+  - Rita Behadini
+  - Rrita Syla
+  - Shefkije Alasani
+  - Teodora Noveska
+  - Teuta Buchi
+date: 2020-04-23T16:00:41.649Z
+cover: /images/uploads/zatvorena-makedonija-640x480.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d0%b7%d0%b0%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0/'
-
+  Diversity Media: http://diversitymedia.mk/%d0%b7%d0%b0%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b0-%d0%bc%d0%b0%d0%ba%d0%b5%d0%b4%d0%be%d0%bd%d0%b8%d1%98%d0%b0/
 ---
 
 Не се случило никогаш порано во Македонија луѓето се затворат повеќе од 60 или 80 часови. За прв пат ова се случи на 10 април, петок, од 16:00 часот, до понеделник 13 април, до 5:00 часот, и од 17 април во 16:00 часот до вторник 21 април, до 5:00 часот наутро. Карантинот е дел од мерките за заштита од коронавирусот. Но, како изгледаше живот на затворено на луѓето во Македонија?

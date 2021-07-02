@@ -1,5 +1,6 @@
 ---
 title: Ковид-19, не се потврдува ефикасноста на третманот со крвна плазма
+slug: covid-19-nuk-konfirmohet-efikasiteti-i-trajtimit-me-plazmen-e-gjakut
 author:
   - Arta Sefadini
   - Valon Mani

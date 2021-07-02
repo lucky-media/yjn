@@ -1,11 +1,13 @@
 ---
 title: Kur je në karrocë “gjërat që në Maqedoni janë luks, në Gjermani janë normale”
-cover: '/images/uploads/kur-je-ne-karroce-gjerat-qe-ne-maqedoni.jpg'
-date: 2020-02-26
-author: ['Rita Behadini', 'Dajana Lazarevska']
+slug: kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale
+author:
+  - Rita Behadini
+  - Dajana Lazarevska
+date: 2020-02-26T16:00:41.649Z
+cover: /images/uploads/kur-je-ne-karroce-gjerat-qe-ne-maqedoni.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale/'
-
+  Diversity Media: http://diversitymedia.mk/kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale/
 ---
 
 Shkruajnë: Rita Behadini dhe Dajana Llazarevska

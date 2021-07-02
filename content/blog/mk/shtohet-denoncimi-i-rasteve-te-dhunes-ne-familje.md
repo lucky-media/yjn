@@ -1,11 +1,13 @@
 ---
 title: Се зголемува бројот на пријавени случаи на семејно насилство
-cover: '/images/uploads/shtohet-denoncimi-i-rasteve-ne-familje.jpeg'
-date: 2020-03-26
-author: ['Teuta Buchi', 'Evi Shkopi']
+slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+author:
+  - Teuta Buchi
+  - Evi Shkopi
+date: 2020-03-26T16:00:41.649Z
+cover: /images/uploads/shtohet-denoncimi-i-rasteve-ne-familje.jpeg
 published:
- Diversity Media: 'http://diversitymedia.mk/%d1%81%d0%b5-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0-%d0%b1%d1%80%d0%be%d1%98%d0%be%d1%82-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b8%d1%98%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d1%81%d0%bb%d1%83%d1%87/'
-
+  Diversity Media: http://diversitymedia.mk/%d1%81%d0%b5-%d0%b7%d0%b3%d0%be%d0%bb%d0%b5%d0%bc%d1%83%d0%b2%d0%b0-%d0%b1%d1%80%d0%be%d1%98%d0%be%d1%82-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b8%d1%98%d0%b0%d0%b2%d0%b5%d0%bd%d0%b8-%d1%81%d0%bb%d1%83%d1%87/
 ---
 
 Пишуваат: Еви Шкопи, Теута Бучи

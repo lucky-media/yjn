@@ -1,5 +1,6 @@
 ---
 title: "[Инфографик] Функционерите малку трошеле за јавен транспорт"
+slug: zyrtaret-kane-shpenzuar-pak-per-transport-publik
 author:
   - Martin Koloski
   - Besmira Ibraimi

@@ -1,6 +1,7 @@
 ---
 title: Një pjesë e prindërve të vetëm – pa përkrahje financiare të dedikuar për
   familjet me një prind
+slug: nje-pjese-e-prinderve-te-vetem-pa-perkrahje-financiare-te-dedikuar-per-familjet-me-nje-prind
 author:
   - Kristijan Trajchov
   - Vanja Micevska

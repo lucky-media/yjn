@@ -1,6 +1,7 @@
 ---
 title: "[Infografikë] Në Shkup janë shqiptuar më së shumti dënime për mosmbajtje
   të maskave"
+slug: infografike-ne-shkup-jane-shqiptuar-me-se-shumti-denime-per-mosmbajtje-te-maskave
 author:
   - Daniel Vasilev
   - Besmira Ibraimi

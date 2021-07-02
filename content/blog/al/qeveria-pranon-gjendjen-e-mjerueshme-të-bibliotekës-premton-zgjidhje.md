@@ -1,5 +1,6 @@
 ---
 title: QEVERIA PRANON GJENDJEN E MJERUESHME TË BIBLIOTEKËS, PREMTON ZGJIDHJE
+slug: qeveria-pranon-gjendjen-e-mjerueshme-te-bibliotekes-premton-zgjidhje
 author:
   - Meriton Mani
 date: 2021-06-13T16:13:11.518Z

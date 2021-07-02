@@ -1,10 +1,13 @@
 ---
-title: 'Miroslav Draganov: Si të vazhdoni me buzëqeshje'
-cover: '/images/uploads/miroslav-draganov.jpg'
-date: 2020-01-26
-author: ['Ljubica Ivanova', 'Arta Qerimi']
+title: "Miroslav Draganov: Si të vazhdoni me buzëqeshje"
+slug: miroslav-draganov-si-te-vazhdoni-me-buzeqeshje
+author:
+  - Ljubica Ivanova
+  - Arta Qerimi
+date: 2020-01-26T16:00:41.649Z
+cover: /images/uploads/miroslav-draganov.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/miroslav-draganov-si-te-vazhdojni-me-buzeqeshje/'
+  Diversity Media: http://diversitymedia.mk/miroslav-draganov-si-te-vazhdojni-me-buzeqeshje/
 ---
 
 Shkruajnë: Ljubica Ivanova dhe Arta Qerimi

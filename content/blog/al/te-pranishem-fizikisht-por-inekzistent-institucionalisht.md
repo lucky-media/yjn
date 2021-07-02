@@ -1,12 +1,14 @@
 ---
-title: Ushqimi organik në vend – akoma në fillesën e tij
-cover: '/images/uploads/article-3.jpg'
-date: 2019-01-10
-author: ['Evi Shkopi', 'Ivana Nasteska']
+title: Të pranishëm fizikisht por inekzistent institucionalisht
+slug: te-pranishem-fizikisht-por-inekzistent-institucionalisht
+author:
+  - Evi Shkopi
+  - Ivana Nasteska
+date: 2019-01-10T16:00:41.649Z
+cover: /images/uploads/article-3.jpg
 published:
- Pina: 'https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/'
- Diversity Media: 'http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/'
-
+  Pina: https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/
+  Diversity Media: http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/
 ---
 
 Në Maqedoni, sipas institucioneve në vend, ekzistojnë qindra qytetarë që nuk posedojnë dokumente identifikimi. Nga ana tjetër, organizatat jo qeveritare flasin për mijëra të tillë. Për shkak se nuk kanë asnjë dokument, nuk gëzojnë asnjë të drejtë, qoftë edhe ato elementare si në arsim apo shëndetësi. Të gjithë janë të vetëdijshëm, por askush për vite të tëra nuk bëri asgjë për të zgjidhur këtë problem. Vetëm pak kohë më parë, Qeveria solli një ligj për regjistrim të këtyre personave, por sektori joqeveritarë thotë se ligji në fjalë nuk do të mund të zgjidh edhe rastet më të komplikuara, të ngjashme me këto në vijim:

@@ -1,10 +1,13 @@
 ---
 title: Korrupsioni dhe ryshfeti është një shprehje e pafuqisë intelektuale
-cover: '/images/uploads/article-4.jpg'
-date: 2020-01-26
-author: ['Maja Terziova', 'Adem Jashari']
+slug: korrupsioni-dhe-ryshfeti-eshte-nje-shprehje-e-pafuqise-intelektuale
+author:
+  - Maja Terziova
+  - Adem Jashari
+date: 2020-01-26T16:00:41.649Z
+cover: /images/uploads/article-4.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/korrupsioni-dhe-ryshfeti-eshte-nje-shprehje-e-pafuqise-intelektuale/'
+  Diversity Media: http://diversitymedia.mk/korrupsioni-dhe-ryshfeti-eshte-nje-shprehje-e-pafuqise-intelektuale/
 ---
 
 Shkruajnë: Maja Terziova dhe Adem Jashari

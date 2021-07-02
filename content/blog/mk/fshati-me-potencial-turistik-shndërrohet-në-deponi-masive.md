@@ -1,5 +1,6 @@
 ---
-title: СЕЛО СО ПОТЕНЦИЈАЛ ЗА ТУРИЗАМ СЕ ПРЕОБРАЗУВА ВО МАСИВНА ДЕПОНИЈА
+title: Село со потенцијал за туризам се преобразува во масивна депонија
+slug: fshati-me-potencial-turistik-shnderrohet-ne-deponi-masive
 author:
   - Albina Sefadini
   - Valon Salai

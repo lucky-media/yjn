@@ -1,10 +1,13 @@
 ---
-title: 'Silva Doçi, studentja shqiptare në Kinë: E dua Wuhan-in qoftë edhe me virus'
-cover: '/images/uploads/wuhan.jpg'
-date: 2020-01-26
-author: ['Ardit Ramadani', 'Rrita Syla']
+title: "Silva Doçi, studentja shqiptare në Kinë: E dua Wuhan-in qoftë edhe me virus"
+slug: silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-virus
+author:
+  - Ardit Ramadani
+  - Rrita Syla
+date: 2020-01-26T16:00:41.649Z
+cover: /images/uploads/wuhan.jpg
 published:
- Diversity Media: 'http://diversitymedia.mk/silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-viris/'
+  Diversity Media: http://diversitymedia.mk/silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-viris/
 ---
 
 Shkruajnë: Ardit Ramadani dhe Rrita Syla
