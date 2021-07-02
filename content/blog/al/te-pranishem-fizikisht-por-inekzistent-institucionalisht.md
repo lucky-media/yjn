@@ -7,8 +7,10 @@ author:
 date: 2019-01-10T16:00:41.649Z
 cover: /images/uploads/article-3.jpg
 published:
-  Pina: https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/
-  Diversity Media: http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/
+  - media: Pina
+    link: https://pina.mk/2980-fizichki-prisutni-no-institutsionalno-nepostoechki/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/%d1%84%d0%b8%d0%b7%d0%b8%d1%87%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8%d1%81%d1%83%d1%82%d0%bd%d0%b8-%d0%bd%d0%be-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d0%bd%d0%be/
 ---
 
 Në Maqedoni, sipas institucioneve në vend, ekzistojnë qindra qytetarë që nuk posedojnë dokumente identifikimi. Nga ana tjetër, organizatat jo qeveritare flasin për mijëra të tillë. Për shkak se nuk kanë asnjë dokument, nuk gëzojnë asnjë të drejtë, qoftë edhe ato elementare si në arsim apo shëndetësi. Të gjithë janë të vetëdijshëm, por askush për vite të tëra nuk bëri asgjë për të zgjidhur këtë problem. Vetëm pak kohë më parë, Qeveria solli një ligj për regjistrim të këtyre personave, por sektori joqeveritarë thotë se ligji në fjalë nuk do të mund të zgjidh edhe rastet më të komplikuara, të ngjashme me këto në vijim:
@@ -23,12 +25,11 @@ kishin regjistruar. Një vit më vonë ai u sëmur. Duke qenë se ishte i pa reg
 Amë, u detyruan që në mjek të dërgonin me librezën time shëndetësore. Gjendja e tij u
 përkeqësua dhe ai ndërroi jetë. Prindërve u kanë thënë që të nënshkruajnë dokumentacionin dhe nga tronditja që kishin për shkak se një pjesëtar i familjes humbi jetën, nuk e kanë menduar se në fakt po nënshkruanin dokumente ku figuronte i vdekur djali i tyre”- thotë Omeri.
 
-
 **Si është të jetosh në Maqedoni kur nuk gëzon asnjë të drejtë?**
 
 Edhe pse nuk bëri asnjë krim, Omer thotë se jeton nga me frike.
 
-*“Unë nuk ekzistoj këtu. Jetoj si i arratisur. Nuk gëzoj asnjë të drejtë. Nuk dal dot jashtë vendit. Sëmurem, nuk shkoj dot në spital shtetëror. Nuk gëzoj dot as të drejtat e punëtorit, nuk jetoj dot si moshatarët e mi. Punoj si kamarier dhe atë me frikë. Kur jam turni i natës, shpesh shoh polici gjatë rrugës duke u kthyer në shtëpi dhe ndërroj rrugë, sepse shumë herë më ka ndodhur që më ndalojnë, më kërkojnë dokumente, dhe unë s’kam asgjë. Më dërgojnë në stacion policor dhe më mbajnë për orë të tëra deri sa sqarohet situata dhe vjen babai të më marrë. Unë nesër nuk mund të ve kurorë, s’do mundem as t’u jap atësinë fëmijëve të mi”*- shprehet Omeri.
+_“Unë nuk ekzistoj këtu. Jetoj si i arratisur. Nuk gëzoj asnjë të drejtë. Nuk dal dot jashtë vendit. Sëmurem, nuk shkoj dot në spital shtetëror. Nuk gëzoj dot as të drejtat e punëtorit, nuk jetoj dot si moshatarët e mi. Punoj si kamarier dhe atë me frikë. Kur jam turni i natës, shpesh shoh polici gjatë rrugës duke u kthyer në shtëpi dhe ndërroj rrugë, sepse shumë herë më ka ndodhur që më ndalojnë, më kërkojnë dokumente, dhe unë s’kam asgjë. Më dërgojnë në stacion policor dhe më mbajnë për orë të tëra deri sa sqarohet situata dhe vjen babai të më marrë. Unë nesër nuk mund të ve kurorë, s’do mundem as t’u jap atësinë fëmijëve të mi”_- shprehet Omeri.
 
 Rruga drejt zgjidhjes së këtij problem bëhet edhe më e komplikuar. Nga Ministria e Brendshme i kishin thënë se në mënyrë që ai të regjistrohet, duhet të hapet varri i kushëririt. Omeri thotë se në atë kohë kushëririn e tij të ndjerë e kishin varrosur në fshat, dhe sot varri i tij ka humbur. Ai thotë se zgjidhje i është premtuar disa herë nga figura të ndryshme politike, në periudhë parazgjedhore, atëherë ku u nevojiteshin vota, por ky hall menjëherë pas zgjedhjeve, thotë Omeri, harrohej nga të gjithë. Në rrugë institucionale nuk ka bërë kërkesë për zgjidhjen e këtij problemi, sepse ka frikë mos i burgosin babain për gabimin që ky i fundit ka bërë.
 

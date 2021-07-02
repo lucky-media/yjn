@@ -7,7 +7,8 @@ author:
 date: 2020-02-08T16:00:41.649Z
 cover: /images/uploads/article-2.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
 ---
 
 Edhe pse nuk ka asnjë organizatë studentore tashmë dy vjet, gjatë regjistrimit të semestrit në fakultetet e Universitetit “Goce Delcev” në Shtip, pagesa në emër të Parlamentit Studentor është e detyrueshme.
@@ -17,7 +18,7 @@ Në vitin 2018, studentët kanë paguar mbi një milion denarë në llogarinë e
 Shkruajnë: Teodora Noveska dhe Shefkije Alasani
 
 Gjatë regjistrimit të këtij viti akademik 2019/2020 në shtator të vitit 2019, të gjithë studentët në Universitetin “Goce Delchev” nga Shtipi, paguan një shumë të detyrueshme prej 150 denarësh për Parlamentin dhe Avokatin studentor. Megjithatë, askush nuk shtroi pyetjen – për cilin Parlamenti Studentor, kur me ligjin e ri të Arsimit të Lartë të muajit maj 2018, kjo organizatë nuk është organ përfaqësues i studentëve, por janë kuvendet studentore, që nuk ishin formuar.
-Që paradoksi të jetë dhe më i madh, mjete për Parlamentin studentor janë grumbulluar edhe vitin e kaluar, gjatë regjistrimit të vitit akademik 2018/2019, kur ligji thjesht fshiu këtë organizatë. Sipas ligjit të ri, organizatat studentore që ekzistonin më parë, të njohura si Parlamente Studentore, të organizuara si shoqata qytetare, automatikisht pushojnë së ekzistuari, ndërsa llogaritë ua ngrijnë. Ky ishte sqarimi që morëm nga universiteti. Sidoqoftë, shoqata qytetare “Parlamenti Studentor i UGD” akoma ekziston dhe ka një llogari aktive bankare, të konfirmuar nga Regjistri Qendror. Llogaria përfundimtare e shoqatës, e cila u dorëzua në shkurt të këtij viti, paraqet të ardhura prej 1.313.256 denarë.  Nga këto, 1.077.407 prej tyre janë të hyra nga anëtarësimi nga studentët, që i kanë paguar gjatë regjistrimit të vitit akademik.
+Që paradoksi të jetë dhe më i madh, mjete për Parlamentin studentor janë grumbulluar edhe vitin e kaluar, gjatë regjistrimit të vitit akademik 2018/2019, kur ligji thjesht fshiu këtë organizatë. Sipas ligjit të ri, organizatat studentore që ekzistonin më parë, të njohura si Parlamente Studentore, të organizuara si shoqata qytetare, automatikisht pushojnë së ekzistuari, ndërsa llogaritë ua ngrijnë. Ky ishte sqarimi që morëm nga universiteti. Sidoqoftë, shoqata qytetare “Parlamenti Studentor i UGD” akoma ekziston dhe ka një llogari aktive bankare, të konfirmuar nga Regjistri Qendror. Llogaria përfundimtare e shoqatës, e cila u dorëzua në shkurt të këtij viti, paraqet të ardhura prej 1.313.256 denarë. Nga këto, 1.077.407 prej tyre janë të hyra nga anëtarësimi nga studentët, që i kanë paguar gjatë regjistrimit të vitit akademik.
 
 ![Kumanova Municipality](/images/uploads/trosoci.jpg)
 
@@ -35,14 +36,13 @@ Me hyrjen në fuqi, Ligji i ri për arsimin e lartë i shfuqizon këto organizat
 
 ![Kumanova Municipality](/images/uploads/studenti-2.jpg)
 
-*Printscreen nga udhëzimet elektronike për regjistrimin e studentëve në vitin akademik 2019/2020 në faqen e Universitetit “Goce Delçev” – Shtip.
+\*Printscreen nga udhëzimet elektronike për regjistrimin e studentëve në vitin akademik 2019/2020 në faqen e Universitetit “Goce Delçev” – Shtip.
 
 Lidhur me atë se pse shoqata Parlamenti studentor – UGD është ende aktive, nga Universiteti u përgjigjën se ata funksionojnë si njësi të veçanta juridike dhe si organizatë autonome studentore. Zëdhënësi Barbareev thotë se universiteti nuk ka lidhje me ata, dhe për këtë arsye, nuk mund të përgjigjen në pyetje që kanë të bëjnë me funksionimin e tyre.
 
 **Studentët paguajnë, qar nuk ka**
 
 Në një situatë kur me ligj fshihet nga ekzistenca Parlamenti studentor, për të cilin Universiteti konfirmon se vitin e kaluar ka grumbulluar anëtarësi nga studentët, ndërsa këtë vit ato mjete i grumbullon Universiteti, del se para për organizim studentor ka, por studentët nuk shohin efekt nga paratë. Të shfrytëzojmë matematikë të thjeshtë: nëse në vitin 2018 janë grumbulluar mbi një milion denarë dhe po aq këtë vit, për çfarë janë përdorur mjete prej mbi dy milionë denarë kur organizimi studentor nuk ekziston për dy vite akademike? Për më tepër, Parlamenti studentor për një gjysmë viti ka pasur në dispozicion paratë e studentëve edhe pse ligji nuk e njeh si organizatë përfaqësuese për organizim studentor. Paratë janë grumbulluar nga të dy palët, por studentët nuk kanë fituar asgjë. Ndërsa më herët duhej detyrimisht të paguanin anëtarësi për shoqatë, e cila funksionon mbi baza të bashkimit vullnetar të qytetarëve, tani paguajnë për një organ që akoma nuk është formuar. Kjo praktikisht do të thotë se dikush që është regjistruar vitin e kaluar në studime, dhe programi studimor i zgjatë tre vjet, përfitim nga paratë e paguara, me gjasë, vështirë se do të sheh.
-
 
 **Protesta më masive studentore solli ligj të ri, por jo edhe lëvizje studentore**
 
@@ -58,9 +58,9 @@ Më 4 dhjetor 2019, studentët e Universitetit “Goce Delçev” nga Shtipi org
 
 “Shpresoj se do të punojnë në përmirësimin e jetës kulturore-shoqërore, do të punojnë më shumë në afrimin me profesorët, do të organizojnë konferenca dhe kongrese. Është me rëndësi t’ju mundësohet studentëve pjesëmarrja në marrjen e vendimeve që kanë të bëjnë me ata, në të cilat nuk kanë qenë të përfshirë deri tani”, vlerëson Elena Meçkaroska, studente e mjekësisë.
 
-Monitorimin e zgjedhjeve e kryen Këshilli kombëtar rinor (KKRM).Ata i ndjekin proceset që nga vendimi për  mbajtje të zgjedhjeve, krijimin dhe organizimin e tyre, e deri te vendosja e punës së tyre me statut, rregullore etj.
+Monitorimin e zgjedhjeve e kryen Këshilli kombëtar rinor (KKRM).Ata i ndjekin proceset që nga vendimi për mbajtje të zgjedhjeve, krijimin dhe organizimin e tyre, e deri te vendosja e punës së tyre me statut, rregullore etj.
 
 Këto ishin zgjedhjet e para pas miratimit të ligjit të ri. Ligji parasheh procedurë të mëtejshme e cila do të zgjasë. Tranzicioni drejt lëvizjes së re studentore do të jetë një test si për universitetin, ashtu edhe për studentët.
 
-*Ligji i ri për arsimin e lartë parasheh që zgjedhjet në fakultete duhet t’i shpallë dekani dhe të formohet një komision nga dy profesorë dhe tre studentë, të cilët do të ndjekin procesin e formimit të kuvendit të fakultetit, që i përfaqëson studentët.
-Kuvendi i fakultetit duhet të zgjidhet në çdo fakultet dhe numëron 10 studentë. Pasi të formohet kuvendi, në seancë konstituive anëtarët do të zgjedhin kryetar dhe do të emërojnë nga dy anëtarë për Kuvendin universitar, një apo dy anëtarë për këshillët mësimorë-shkencorë të fakulteteve dhe një anëtar në Bordin për bashkëpunim dhe mirëbesim me publikun. Pasi kuvendet e fakulteteve ta formojnë Kuvendin universitar, në seance konstituive do të zgjedhë kryetar dhe do të emërojë përfaqësues përkatës në organet e universitetit.*
+_Ligji i ri për arsimin e lartë parasheh që zgjedhjet në fakultete duhet t’i shpallë dekani dhe të formohet një komision nga dy profesorë dhe tre studentë, të cilët do të ndjekin procesin e formimit të kuvendit të fakultetit, që i përfaqëson studentët.
+Kuvendi i fakultetit duhet të zgjidhet në çdo fakultet dhe numëron 10 studentë. Pasi të formohet kuvendi, në seancë konstituive anëtarët do të zgjedhin kryetar dhe do të emërojnë nga dy anëtarë për Kuvendin universitar, një apo dy anëtarë për këshillët mësimorë-shkencorë të fakulteteve dhe një anëtar në Bordin për bashkëpunim dhe mirëbesim me publikun. Pasi kuvendet e fakulteteve ta formojnë Kuvendin universitar, në seance konstituive do të zgjedhë kryetar dhe do të emërojë përfaqësues përkatës në organet e universitetit._

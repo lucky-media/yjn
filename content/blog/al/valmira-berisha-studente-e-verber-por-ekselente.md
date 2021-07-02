@@ -7,7 +7,8 @@ author:
 date: 2020-02-24T16:00:41.649Z
 cover: /images/uploads/valmira-berisha.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/valmira-berisha-studente-e-verber-por-ekselente/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/valmira-berisha-studente-e-verber-por-ekselente/
 ---
 
 Shkruajnë: Dorina Ajdini, Ardi Zhuta

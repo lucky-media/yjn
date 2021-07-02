@@ -8,7 +8,8 @@ author:
 date: 2020-02-23T16:00:41.649Z
 cover: /images/uploads/adrian-aziri.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/adrian-aziri-arti-dhe-kultura-duhet-te-kene-ndikim-me-te-madh-ne-shoqerine-tone/
 ---
 
 Shkruajnë: Ivana Nasteska dhe Albërie Xhemaili

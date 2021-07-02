@@ -8,7 +8,9 @@ author:
 date: 2020-02-21T16:00:41.649Z
 cover: /images/uploads/jovana.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri/
+published:
+  - media: Diversity Media
+    link: http://diversitymedia.mk/jovana-georgieva-mbajtese-medaljeje-ne-karate-sfida-me-e-madhe-eshte-qe-frika-te-shnderrohet-ne-liri/
 ---
 
 Shkruajnë: Teodora Noveska dhe Shefkije Alasani

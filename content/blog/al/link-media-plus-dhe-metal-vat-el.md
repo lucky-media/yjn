@@ -20,7 +20,8 @@ author:
 date: 2020-01-16T16:00:41.649Z
 cover: /images/uploads/article-1.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/link-media-plus-dhe-metal-vat-el-rekordere-te-furnizimeve-publike-per-dekorimin-e-fundvitit/
 ---
 
 Viti i Ri është padyshim një nga festat më të mëdha, që festohet në të gjithë botën. Dekorimi i qyteteve, lokaleve dhe shtëpive është i paevitueshëm, dhe nëpër vite është shndërruar në traditë. Pema e vitit të ri, ndriçimi dhe Baba Dimri janë simbolet kryesore, por jo të vetmit, që i shohim gjatë muajit dhjetor, në çdo shesh qyteti. Studentët e Akademisë së DemocracyLab, shqyrtuan shpenzimet për dekorimin e fundvitit në periudhën 2016-2019 për komunat e Strugës, Tetovës, Qytetit të Shkupit, Radovishit, Kumanovës, Manastirit dhe Karposhit. Është karakteristike se Qyteti i Shkupit ka shuma më të larta për dekorim, ndërsa nga analiza e komunave tjera, dy kompani – “Link media plus” dhe “Metal vat-el”, më shpesh kanë fituar tenderët për furnizime publike.

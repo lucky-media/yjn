@@ -7,7 +7,8 @@ author:
 date: 2020-01-26T16:00:41.649Z
 cover: /images/uploads/article-4.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/korrupsioni-dhe-ryshfeti-eshte-nje-shprehje-e-pafuqise-intelektuale/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/korrupsioni-dhe-ryshfeti-eshte-nje-shprehje-e-pafuqise-intelektuale/
 ---
 
 Shkruajnë: Maja Terziova dhe Adem Jashari

@@ -7,7 +7,8 @@ author:
 date: 2020-02-26T16:00:41.649Z
 cover: /images/uploads/kur-je-ne-karroce-gjerat-qe-ne-maqedoni.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/kur-je-ne-karroce-gjerat-qe-ne-maqedoni-jane-luks-ne-gjermani-jane-normale/
 ---
 
 Shkruajnë: Rita Behadini dhe Dajana Llazarevska

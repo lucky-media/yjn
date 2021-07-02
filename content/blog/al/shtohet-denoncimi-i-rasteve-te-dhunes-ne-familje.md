@@ -7,7 +7,8 @@ author:
 date: 2020-03-26T16:00:41.649Z
 cover: /images/uploads/shtohet-denoncimi-i-rasteve-ne-familje.jpeg
 published:
-  Diversity Media: http://diversitymedia.mk/shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje/
+  - media: Pina
+    link: http://diversitymedia.mk/shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje/
 ---
 
 Shkruajnë: Evi Shkopi, Teuta Buçi

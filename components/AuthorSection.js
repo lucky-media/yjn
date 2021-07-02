@@ -15,6 +15,8 @@ function Author({ name, slug, image, image_lg }) {
 }
 
 export default function AuthorSection({ authors, published }) {
+    console.log(published);
+    
     return (
         <div className="bg-gray-600">
             <div style={{ height: '2px' }} className="w-full bg-gray-500 opacity-25"></div>
@@ -41,10 +43,10 @@ export default function AuthorSection({ authors, published }) {
                     <div className="mt-16 md:col-5 md:mt-0">
                         <Heading>Published in</Heading>
                         <div className="flex flex-col mt-6 space-y-2">
-                            {Object.entries(published).map(([key, value]) => {
+                            {published.map((media, index) => {
                                 return (
-                                    <a key={key} target="_blank" className="mr-1 text-xl font-bold text-blue-400 hover:underline" href={value}>
-                                        {key}
+                                    <a key={index} href={media.link} target="_blank" className="mr-1 text-xl font-bold text-blue-400 hover:underline">
+                                        {media.media}
                                     </a>
                                 )
                             })}

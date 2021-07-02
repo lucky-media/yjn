@@ -7,8 +7,10 @@ author:
 date: 2020-01-10T16:00:41.649Z
 cover: /images/uploads/organic-food.jpg
 published:
-  Pina: https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/
-  Diversity Media: http://diversitymedia.mk/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d1%83%d1%88%d1%82/
+  - media: Pina
+    link: https://pina.mk/2959-organska-hrana-vo-zemjava-se-ushte-vo-zachetok/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d1%85%d1%80%d0%b0%d0%bd%d0%b0-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d1%83%d1%88%d1%82/
 ---
 
 **Qytetarët nuk e ndjekin shumë trendin botëror të përdorimit të ushqimit organik. Pjesërisht, kjo u përshkruhet çmimeve më të larta të prodhimeve organike, por edhe faktit se shitoret ku mund të gjendet ushqim organik janë të rralla. Përkundër rekomandimeve të përditshme të nutricionistëve për konsumim të rregullt të prodhimeve organike, mbetet e hapur çështja se sa këtë ushqim mund ta blejnë qytetarët.**
@@ -37,12 +39,11 @@ Sipas pronares së një shitoreje të ushqimit organik në qendër të Shkupit, 
 
 Tregu Evropian i prodhimeve organike u rrit për më shumë se 37 miliardë euro në vitin 2017, ndërsa secili evropian harxhon 67 euro për ushqim organik.
 
-
 **Prodhimtaria është akoma në fillesën e saj**
 
 “Dobra zemja” është një nga shitoret që blen ushqimin organik maqedonas lokal. Ivo Baru, i punësuar në shitore, thotë se shumica e prodhimeve sigurohen nga prodhues të fshatrave rreth Koçanit, Strumicës, Kavadarit, Negotinës, Resnjës, Vallandovës, si dhe nga fshatrat e Shkupit, nga prodhues që kanë certifikatë për prodhimtari organike, por që të binden për këtë, më së shpeshti edhe personalisht i vizitojnë prodhuesit para se të fillojnë bashkëpunimin me to. Sa u përket çmimeve, nuk ka ndonjë formulë të caktuar sipas së cilës i caktojnë çmimet. Sipas Barus, çmimet kryesisht varen nga ajo se sa është prezent produkti në treg, si dhe nga çmimi që kanë caktuar vetë prodhuesit.
 
-*“Prodhimtaria organike në Maqedoni sikurse është akoma në fillesën e saj. Numri më i madh i konsumatorëve më besnik në shitoren tonë janë kryesisht nëna, të cilat blejnë ushqim organik për fëmijët e tyre të vegjël. Përpos nënave, si konsumatorë të ushqimit organik paraqiten edhe njerëz me probleme shëndetësore, njerëz të cilët i përmbahen ndonjë regjimi të caktuar të të ushqyerit, që jetojnë shëndetshëm dhe të cilët janë në dietë. Shitorja ekziston tani më pesë vite dhe fatkeqësisht nuk mund të lavdërohemi me rritje të kërkesës siç i kemi ne pritjet”*, deklaroi Ivo Baru – i punësuar në shitoren për ushqim organik “Dobra zemja”.
+_“Prodhimtaria organike në Maqedoni sikurse është akoma në fillesën e saj. Numri më i madh i konsumatorëve më besnik në shitoren tonë janë kryesisht nëna, të cilat blejnë ushqim organik për fëmijët e tyre të vegjël. Përpos nënave, si konsumatorë të ushqimit organik paraqiten edhe njerëz me probleme shëndetësore, njerëz të cilët i përmbahen ndonjë regjimi të caktuar të të ushqyerit, që jetojnë shëndetshëm dhe të cilët janë në dietë. Shitorja ekziston tani më pesë vite dhe fatkeqësisht nuk mund të lavdërohemi me rritje të kërkesës siç i kemi ne pritjet”_, deklaroi Ivo Baru – i punësuar në shitoren për ushqim organik “Dobra zemja”.
 
 Kemi bërë një krahasim të çmimeve të frutave dhe perimeve të prodhuara në mënyrë organike dhe inorganike.
 

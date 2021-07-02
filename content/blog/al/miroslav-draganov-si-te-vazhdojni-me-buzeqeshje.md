@@ -7,7 +7,8 @@ author:
 date: 2020-01-26T16:00:41.649Z
 cover: /images/uploads/miroslav-draganov.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/miroslav-draganov-si-te-vazhdojni-me-buzeqeshje/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/miroslav-draganov-si-te-vazhdojni-me-buzeqeshje/
 ---
 
 Shkruajnë: Ljubica Ivanova dhe Arta Qerimi

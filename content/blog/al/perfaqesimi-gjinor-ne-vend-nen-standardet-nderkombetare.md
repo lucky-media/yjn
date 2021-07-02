@@ -7,7 +7,8 @@ author:
 date: 2020-01-26T16:00:41.649Z
 cover: /images/uploads/women-rights.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/%d1%80%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0%d1%81%d1%82%d0%b0%d0%bf%d0%b5%d0%bd%d0%be%d1%81%d1%82-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4-%d0%bc/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/%d1%80%d0%be%d0%b4%d0%be%d0%b2%d0%b0%d1%82%d0%b0-%d0%b7%d0%b0%d1%81%d1%82%d0%b0%d0%bf%d0%b5%d0%bd%d0%be%d1%81%d1%82-%d0%b2%d0%be-%d0%b7%d0%b5%d0%bc%d1%98%d0%b0%d1%82%d0%b0-%d0%bf%d0%be%d0%b4-%d0%bc/
 ---
 
 Teuta Buçi dhe Renata Pençova

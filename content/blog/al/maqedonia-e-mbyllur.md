@@ -23,8 +23,11 @@ author:
 date: 2020-04-23T16:00:41.649Z
 cover: /images/uploads/zatvorena-makedonija-640x480.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/maqedonia-e-mbyllur/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/maqedonia-e-mbyllur/
 ---
+
+## Diversity Media: http://diversitymedia.mk/maqedonia-e-mbyllur/
 
 Nuk kishte ndodhur më parë që në Maqedoninë njerëzit të mbylleshin për mbi 60 ose mbi 80 orë. Kjo ndodhi për herë të parë nga 10 prilli, e premte prej orës 16.00 e deri të hënën 13 prill, në ora 05.00 dhe nga 17 prilli prej orës 16.00 e deri të martën 21 prill në 5 të mëngjesit. Karantinat ishin pjesë e masave për tu mbrojtur nga koronavirusi. Por si ishte jeta e ngujuar e njerëzve në Maqedoninë e Veriut?
 
@@ -116,7 +119,7 @@ Po periferia? Albërie Xhemaili po nga Kumanova, por nga periferia, me fotot e s
 
 6: Në oborr, por gjithçka përreth pa zhurmat e përditshmërisë. Gjithçka bosh e pa njerëz, si në Kumanovë edhe kudo.
 
-   Shkupi, jo vetëm kryeqytet, por është edhe vendbanimi me numrin më të madh të banorëve në një vend në Maqedoninë e Veriut. I karakterizuar me lagje e komuna me gjeografi të ndryshme, ja si dukej karantina. Ardi Zhuta sjell pamjet më emblematike të simbolit të Shkupit, Çarshisë, por pa njerëz si asnjëherë më parë.
+Shkupi, jo vetëm kryeqytet, por është edhe vendbanimi me numrin më të madh të banorëve në një vend në Maqedoninë e Veriut. I karakterizuar me lagje e komuna me gjeografi të ndryshme, ja si dukej karantina. Ardi Zhuta sjell pamjet më emblematike të simbolit të Shkupit, Çarshisë, por pa njerëz si asnjëherë më parë.
 
 ![Zatvoreno 20](/images/uploads/zatvoreno-foto-20.jpg)
 

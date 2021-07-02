@@ -7,7 +7,8 @@ author:
 date: 2020-01-26T16:00:41.649Z
 cover: /images/uploads/wuhan.jpg
 published:
-  Diversity Media: http://diversitymedia.mk/silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-viris/
+  - media: Diversity Media
+    link: http://diversitymedia.mk/silva-doci-studentja-shqiptare-ne-kine-e-dua-wuhan-in-qofte-edhe-me-viris/
 ---
 
 Shkruajnë: Ardit Ramadani dhe Rrita Syla
