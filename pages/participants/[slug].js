@@ -1,4 +1,5 @@
-import { parseFiles, parseData, getCollection } from "../../content/content";
+import fs from "fs";
+import { parseData, getCollection } from "../../content/content";
 import Layout from "../../components/layout/Layout";
 import YellowHeader from "../../components/YellowHeader";
 import ReactMarkdown from "react-markdown";
@@ -69,7 +70,15 @@ export default function singleParticipant({ content, data, posts }) {
 }
 
 export async function getStaticPaths() {
-  const paths = parseFiles("content/participants");
+
+  const files = fs.readdirSync('content/participants');
+
+  const paths = files.map((filename) => ({
+    params: {
+      slug: filename.replace(".md", ""),
+    },
+  }));
+
 
   return {
     paths,
@@ -92,7 +101,6 @@ export async function getStaticProps({ params: { slug } }) {
   posts = posts.map((item) => {
     return {
       ...item,
-      date: item.date.toLocaleDateString(),
     };
   });
 
