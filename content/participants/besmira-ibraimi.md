@@ -1,6 +1,7 @@
 ---
 name: Besmira Ibraimi
 year: "2021"
+image: /images/participants/besmira_ibrahimi.jpg
 ---
 Besmira Ibraimi holds a master's degree in Albanian studies. She has worked as a teacher in a secondary and elementary school for two years. Besides teaching and learning, she has developed the school magazine ‘Lego’. Moreover, she used to be the editor of a magazine of the Department of Albanian language and literature ‘Albstudenti’, during her studies.
 

@@ -1,6 +1,7 @@
 ---
 name: Martin Koloski
 year: "2021"
+image: /images/participants/martin_koloski.jpg
 ---
 Martin Koloski was born in Ohrid. Currently, he is a graduate student at the Institute of Social Work and Social Policy at the Faculty of Philosophy, UKIM – Skopje.
 
