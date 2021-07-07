@@ -7,6 +7,7 @@ import Heading from "../../components/Heading";
 import News from "../../components/News";
 import { NextSeo } from "next-seo";
 import useUrl from "../../utils/useUrl";
+import Image from "next/image"
 
 export default function singleParticipant({ content, data, posts }) {
   const { name, image } = data;
@@ -31,8 +32,9 @@ export default function singleParticipant({ content, data, posts }) {
         <div className="container mt-20 mb-5 md:mt-32">
           <div className="justify-between row">
             <div className="md:col-6">
-              <img
-                style={{ maxHeight: "800px" }}
+              <Image
+                width={600}
+                height={800}
                 className="object-cover w-full h-auto mb-10 md:mb-0"
                 src={image ? image : '/images/user.jpeg'}
                 alt={name}

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image"
 import Heading from "./Heading";
 
 function Author({ name, slug, image, image_lg }) {
@@ -6,7 +7,12 @@ function Author({ name, slug, image, image_lg }) {
         <Link href={`/participants/${slug}`}>
             <a className="flex flex-row items-center mb-5 last:mb-0">
                 <div className="w-20 h-32 lg:w-12 lg:h-16">
-                    <img className="object-cover w-full h-full rounded" src={image ? image : '/images/user.jpeg'} srcSet={image_lg ? image_lg : '/images/user.jpeg'} alt={name} />
+                    <Image
+                        className="object-cover w-full h-full rounded"
+                        src={image ? image : '/images/user.jpeg'}
+                        width={48}
+                        height={64}
+                        alt={name} />
                 </div>
                 <h4 className="ml-3 text-base font-bold text-blue-400">{name}</h4>
             </a>
@@ -15,8 +21,6 @@ function Author({ name, slug, image, image_lg }) {
 }
 
 export default function AuthorSection({ authors, published }) {
-    console.log(published);
-    
     return (
         <div className="bg-gray-600">
             <div style={{ height: '2px' }} className="w-full bg-gray-500 opacity-25"></div>

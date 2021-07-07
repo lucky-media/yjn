@@ -1,6 +1,6 @@
 ---
 title: Ваљмира Бериша – слепа но, извонредна студентка
-slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+slug: valmira-berisha-studente-e-verber-por-ekselente
 author:
   - Dorina Ajdini
   - Ardi Zhuta

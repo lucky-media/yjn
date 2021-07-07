@@ -1,6 +1,6 @@
 ---
-title: Shtohet denoncimi i rasteve të dhunës në familje
-slug: shtohet-denoncimi-i-rasteve-te-dhunes-ne-familje
+title: Valmira Berisha studente e verbër por ekselente
+slug: valmira-berisha-studente-e-verber-por-ekselente
 author:
   - Dorina Ajdini
   - Ardi Zhuta

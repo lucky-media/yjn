@@ -7,6 +7,7 @@ import AuthorSection from "../../../components/AuthorSection";
 import { useRouter } from "next/router";
 import { NextSeo } from "next-seo";
 import useUrl from "../../../utils/useUrl";
+import Image from "next/image"
 
 export default function porfolioIndex({ content, data, authors }) {
   const { title, cover, date, published } = data;
@@ -42,8 +43,9 @@ export default function porfolioIndex({ content, data, authors }) {
         <div className="container my-20">
           <div className="justify-center row">
             <div className="md:col-10 lg:col-8">
-              <img
-                style={{ maxHeight: "400px" }}
+              <Image
+                width={800}
+                height={400}
                 className="object-cover w-full h-auto mb-10"
                 src={cover}
                 alt={title}

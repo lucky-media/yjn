@@ -6,6 +6,7 @@ import YellowHeader from "../../components/YellowHeader";
 import ReactMarkdown from "react-markdown";
 import { NextSeo } from "next-seo";
 import useUrl from "../../utils/useUrl";
+import Image from "next/image"
 
 export default function singleParticipant({ content, data }) {
   const url = useUrl();
@@ -32,9 +33,10 @@ export default function singleParticipant({ content, data }) {
           <div className="justify-between row">
             <div className="md:col-5">
               <div className="max-w-md">
-                <img
+                <Image
                   className="object-cover w-full h-full mb-10 rounded-full md:mb-0"
-                  srcSet={image_lg}
+                  width={600}
+                  height={800}
                   src={image}
                   alt={name}
                 />
