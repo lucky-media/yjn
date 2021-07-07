@@ -1,5 +1,5 @@
 ---
-title: PËRFAQËSIMI I GRAVE NË KUVEND, MË I ULËT SE I BURRAVE
+title: Përfaqësimi I grave në kuvend, më i ulët se i burrave
 slug: perfaqesimi-i-grave-ne-kuvend-me-i-ulet-se-i-burrave
 author:
   - Fisnik Xhelili

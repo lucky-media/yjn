@@ -1,6 +1,6 @@
 ---
-title: QENTË ENDACAKË RREZIKOJNË BANORËT E KËRÇOVËS, QINDRA TË KAFSHUAR BRENDA
-  NJË VITI
+title: Qentë endacakë rrezikojnë banorët e kërçovës, qindra të kafshuar brenda
+  një viti
 slug: qente-endacake-rrezikojne-banoret-e-kercoves-qindra-te-kafshuar-brenda-nje-viti
 author:
   - Edlira Sadiku

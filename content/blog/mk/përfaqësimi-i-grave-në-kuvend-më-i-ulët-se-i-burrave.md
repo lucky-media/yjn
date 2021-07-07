@@ -1,5 +1,5 @@
 ---
-title: ЗАСТАПЕНОСТА НА ЖЕНИТЕ ВО СОБРАНИЕТО, ПОНИСКА ОД НА МАЖИТЕ
+title: Застапеноста на жените во собранието, пониска од на мажите
 slug: perfaqesimi-i-grave-ne-kuvend-me-i-ulet-se-i-burrave
 author:
   - Fisnik Xhelili

@@ -1,5 +1,5 @@
 ---
-title: QEVERIA PRANON GJENDJEN E MJERUESHME TË BIBLIOTEKËS, PREMTON ZGJIDHJE
+title: Qeveria pranon gjendjen e mjerueshme të bibliotekës, premton zgjidhje
 slug: qeveria-pranon-gjendjen-e-mjerueshme-te-bibliotekes-premton-zgjidhje
 author:
   - Meriton Mani

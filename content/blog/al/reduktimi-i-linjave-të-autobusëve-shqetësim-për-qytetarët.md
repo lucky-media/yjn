@@ -1,5 +1,5 @@
 ---
-title: REDUKTIMI I LINJAVE TË AUTOBUSËVE, SHQETËSIM PËR QYTETARËT
+title: Reduktimi I linjave të autobusëve, shqetësim për qytetarët
 slug: reduktimi-i-linjave-te-autobuseve-shqetesim-per-qytetaret
 author:
   - Fisnik Xhelili

@@ -1,5 +1,5 @@
 ---
-title: Железничкиот превоз во Кичево – незабележителен
+title: Железничкиот превоз во кичево – незабележителен
 slug: kercove-transporti-hekurudhor-eshte-i-paperfillshem
 author:
   - Albina Sefadini

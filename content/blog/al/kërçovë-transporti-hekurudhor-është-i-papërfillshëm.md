@@ -1,5 +1,5 @@
 ---
-title: KËRÇOVË, TRANSPORTI HEKURUDHOR ËSHTË I PAPËRFILLSHËM
+title: Kërçovë, transporti hekurudhor është i papërfillshëm
 slug: kercove-transporti-hekurudhor-eshte-i-paperfillshem
 author:
   - Albina Sefadini

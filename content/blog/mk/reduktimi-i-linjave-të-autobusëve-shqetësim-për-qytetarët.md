@@ -1,5 +1,5 @@
 ---
-title: НАМАЛУВАЊЕТО НА АВТОБУСКИТЕ ЛИНИИ, ЗАГРИЖУВАЧКИ ЗА ГРАЃАНИТЕ
+title: Намалувањето на автобуските линии, загрижувачки за граѓаните
 slug: reduktimi-i-linjave-te-autobuseve-shqetesim-per-qytetaret
 author:
   - Fisnik Xhelili

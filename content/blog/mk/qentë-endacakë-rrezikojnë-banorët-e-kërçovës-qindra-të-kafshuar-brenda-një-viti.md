@@ -1,6 +1,6 @@
 ---
-title: КУЧИЊАТА СКИТНИЦИ ГИ ЗАГРОЗУВААТ ЖИТЕЛИТЕ НА КИЧЕВО, СТОТИЦИ КАСНАТИ ВО
-  ТЕК НА ЕДНА ГОДИНА
+title: Кучињата скитници ги загрозуваат жителите на кичево, стотици каснати во
+  тек на една година
 slug: qente-endacake-rrezikojne-banoret-e-kercoves-qindra-te-kafshuar-brenda-nje-viti
 author:
   - Edlira Sadiku

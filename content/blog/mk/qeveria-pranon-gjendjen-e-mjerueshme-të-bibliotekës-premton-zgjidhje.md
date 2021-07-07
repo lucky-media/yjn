@@ -1,5 +1,5 @@
 ---
-title: ВЛАДАТА ЈА ПРИЗНАВА ЛОШАТА СОСТОЈБА НА БИБЛИОТЕКАТА, ВЕТУВА РЕШЕНИЕ
+title: Владата ја признава лошата состојба на библиотеката, ветува решение
 slug: qeveria-pranon-gjendjen-e-mjerueshme-te-bibliotekes-premton-zgjidhje
 author:
   - Meriton Mani
