@@ -32,9 +32,9 @@ export default function singleParticipant({ content, data }) {
         <div className="container mt-20 mb-20 md:mb-32 md:mt-32">
           <div className="justify-between row">
             <div className="md:col-5">
-              <div className="max-w-md">
+              <div className="max-w-md mb-10 md:mb-0">
                 <Image
-                  className="object-cover w-full h-full mb-10 rounded-full md:mb-0"
+                  className="object-cover w-full h-full"
                   width={600}
                   height={800}
                   src={image}

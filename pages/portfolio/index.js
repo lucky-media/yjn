@@ -28,8 +28,8 @@ export default function index({ news }) {
 
       <div className="container pt-10 pb-20">
         <div className="row">
-          {_DATA.currentData().map((item) => {
-            return <News news={item} key={item.slug} />;
+          {_DATA.currentData().map((item, index) => {
+            return <News news={item} key={index} />;
           })}
         </div>
         <div className="mt-16 row">
